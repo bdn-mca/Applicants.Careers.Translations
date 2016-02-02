@@ -55,7 +55,7 @@
 "en-UK":"Failed scanning QR code"
 },
 "CLIENT_LOGINVIEW_FAILEDSCANALERT_MESSAGE":{
-"en-UK":"Please try to scan the code again."
+"en-UK":"Please try to scan the QR code again."
 },
 "CLIENT_REVIEWVIEW_REVIEWBUTTON_TITLE":{
 "en-UK":"Review your answer",
