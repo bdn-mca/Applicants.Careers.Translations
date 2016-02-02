@@ -57,6 +57,9 @@
 "CLIENT_LOGINVIEW_FAILEDSCANALERT_MESSAGE":{
 "en-UK":"Please try to scan the QR code again."
 },
+"CLIENT_LOGINVIEW_LOGGINGINPROGRESS_TITLE":{
+"en-UK":"Signing in"
+},
 "CLIENT_REVIEWVIEW_REVIEWBUTTON_TITLE":{
 "en-UK":"Review your answer",
 "da-DK":"Se dit svar igen"
