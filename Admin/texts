@@ -1,0 +1,974 @@
+{
+"fallbacks": {
+"de-CH": "de-DE",
+"de-AT": "de-DE",
+"en-GB": "en-UK",
+"en-AU": "en-UK",
+"en-NZ": "en-UK",
+"en-ZA": "en-UK",
+"en-IE": "en-UK",
+"en-SG": "en-UK",
+"en-MY": "en-UK",
+"en-PH": "en-UK",
+"en-IL": "en-UK",
+"en-IN": "en-UK",
+"es-PE": "es-ES",
+"es-CO": "es-ES",
+"es-AR": "es-ES",
+"es-VE": "es-ES",
+"es-CL": "es-ES",
+"es-IC": "es-ES"
+},
+"texts": {
+"ADMIN_GENERIC_DONE":{
+"en-UK":"Done",
+"da-DK":"Færdig"
+},
+"ADMIN_GENERIC_CANCEL":{
+"en-UK":"Cancel",
+"da-DK":"Fortryd"
+},
+"ADMIN_GENERIC_CLOSE":{
+"en-UK":"Close",
+"da-DK":"Luk"
+},
+"ADMIN_GENERIC_SAVE":{
+"en-UK":"Save",
+"da-DK":"Gem"
+},
+"ADMIN_GENERIC_DAY_SINGULAR":{
+"en-UK":"day",
+"da-DK":"dag"
+},
+"ADMIN_GENERIC_DAY_PLURAL":{
+"en-UK":"days",
+"da-DK":"dage"
+},
+"ADMIN_GENERIC_APPLICANT_SINGULAR":{
+"en-UK":"applicant",
+"da-DK":"ansøger"
+},
+"ADMIN_GENERIC_APPLICANT_PLURAL":{
+"en-UK":"applicants",
+"da-DK":"ansøgere"
+},
+"ADMIN_FORGOTPASSWORD_VIEW_TITLE":{
+"en-UK":"Forgot Password",
+"da-DK":"Glemt adgangskode"
+},
+"ADMIN_FORGOTPASSWORD_RESETALERT_TITLE":{
+"en-UK":"Request sent successfully",
+"da-DK":"Forespørgsel sendt"
+},
+"ADMIN_FORGOTPASSWORD_RESETALERT_MESSAGE":{
+"en-UK":"You will receive an e-mail with further instructions.",
+"da-DK":"Du vil modtage en e-mail med yderligere vejledning."
+},
+"ADMIN_FORGOTPASSWORD_FAILEDALERT_TITLE":{
+"en-UK":"Failed",
+"da-DK":"Mislykket"
+},
+"ADMIN_FORGOTPASSWORD_FAILEDALERT_GENERALMESSAGE":{
+"en-UK":"Please try again.",
+"da-DK":"Prøv venligst igen"
+},
+"ADMIN_FORGOTPASSWORD_FAILEDALERT_DOESNTEXIST":{
+"en-UK":"[EMAIL] doesn't exist.",
+"da-DK":"[EMAIL] eksisterer ikke"
+},
+"ADMIN_FORGOTPASSWORD_EMAILCELL_HEADER":{
+"en-UK":"E-mail",
+"da-DK":"email "
+},
+"ADMIN_FORGOTPASSWORD_ACTIONBUTTON_REQUEST":{
+"en-UK":"Request new password",
+"da-DK":"Bestil ny adgangskode"
+},
+"ADMIN_LOGIN_VIEW_TITLE":{
+"en-UK":"Login",
+"da-DK":"Login"
+},
+"ADMIN_LOGIN_NAVBARBUTTON_FORGOTPASSWORD":{
+"en-UK":"Forgot password",
+"da-DK":"Glemt adgangskode"
+},
+"ADMIN_LOGIN_EMAILCELL_HEADER":{
+"en-UK":"E-mail",
+"da-DK":"email "
+},
+"ADMIN_LOGIN_PASSWORDCELL_HEADER":{
+"en-UK":"Password",
+"da-DK":"adgangskode"
+},
+"ADMIN_LOGIN_ACTIONBUTTON_LOGIN":{
+"en-UK":"Login",
+"da-DK":"Login"
+},
+"ADMIN_REGISTER_NAVBARBUTTON_REGISTER":{
+"en-UK":"Register",
+"da-DK":"Opret"
+},
+"ADMIN_REGISTER_FAILEDALERT_TITLE":{
+"en-UK":"Registering failed",
+"da-DK":"Oprettelse fejlede"
+},
+"ADMIN_REGISTER_FAILEDALERT_USEREXISTS":{
+"en-UK":"This user already exists. If you have forgotten your password, go to Forgot password.",
+"da-DK":"Denne bruger eksisterer allerede. hvis du har glemt din adgangskode gå til glemt adgangskode"
+},
+"ADMIN_REGISTER_FAILEDALERT_GENERALMESSAGE":{
+"en-UK":"Please try again.",
+"da-DK":"Prøv igen"
+},
+"ADMIN_REGISTER_SECTION_TITLE":{
+"en-UK":"User registration",
+"da-DK":"Bruger registrering"
+},
+"ADMIN_REGISTER_NAMECELL_HEADER":{
+"en-UK":"Name",
+"da-DK":"Navn"
+},
+"ADMIN_REGISTER_EMAILCELL_HEADER":{
+"en-UK":"E-mail",
+"da-DK":"email"
+},
+"ADMIN_REGISTER_PASSWORDCELL_HEADER":{
+"en-UK":"Password",
+"da-DK":"Adgangskode"
+},
+"ADMIN_REGISTER_ACTIONBUTTON_REGISTER":{
+"en-UK":"Register",
+"da-DK":"Opret"
+},
+"ADMIN_WELCOME_VIEW_TITLE":{
+"en-UK":"Applicants.Careers",
+"da-DK":"Applicants.Careers"
+},
+"ADMIN_WELCOME_NAVBARBUTTON_SUPPORT":{
+"en-UK":"Support",
+"da-DK":"Support/hjælp"
+},
+"ADMIN_WELCOME_ACTIONBUTTON_REGISTER":{
+"en-UK":"Register",
+"da-DK":"Opret"
+},
+"ADMIN_WELCOME_ACTIONBUTTON_LOGIN":{
+"en-UK":"Login",
+"da-DK":"Login"
+},
+"ADMIN_APPLYPAGE_DEMOHTML":{
+"en-UK":"<p>Change to create your <strong>Job Description</strong> here.</p>",
+"da-DK":"<p>Skift for at oprette din <strong>Job beskrivelse</strong> her.</p>"
+},
+"ADMIN_APPLYPAGE_VIEW_TITLE":{
+"en-UK":"Job Description",
+"da-DK":"Job beskrivelse"
+},
+"ADMIN_APPLYPAGE_FAILEDALERT_TITLE":{
+"en-UK":"Cannot create Job offering page",
+"da-DK":"Det er ikke muligt at oprette job opslaget"
+},
+"ADMIN_APPLYPAGE_FAILEDALERT_MESSAGE":{
+"en-UK":"Please try again.",
+"da-DK":"Prøv igen"
+},
+"ADMIN_CAMPAIGNNAME_VIEW_TITLE":{
+"en-UK":"Job offering name",
+"da-DK":"Job beskrivelse"
+},
+"ADMIN_CAMPAIGNNAME_FAILEDALERT_TITLE":{
+"en-UK":"Cannot save Job offering name",
+"da-DK":"Kan ikke gemme job opslagets navn "
+},
+"ADMIN_CAMPAIGNNAME_FAILEDALERT_MESSAGE":{
+"en-UK":"Please try again.",
+"da-DK":"Prøv igen"
+},
+"ADMIN_WJOBOFFERING_FAILEDALERT_TITLE":{
+"en-UK":"Your job post does not have a name",
+"da-DK":"Dit job opslag har ikke noget navn"
+},
+"ADMIN_WJOBOFFERING_FAILEDALERT_MESSAGE":{
+"en-UK":"Please set a name to your job post.",
+"da-DK":"Giv venligst dit job opslag et navn"
+},
+"ADMIN_WJOBOFFERING_JOBTITLECELL_HEADER":{
+"en-UK":"Job title",
+"da-DK":"Job titel"
+},
+"ADMIN_WJOBOFFERING_JOBDESCRIPTIONCELL_HEADER":{
+"en-UK":"Job description",
+"da-DK":"Job beskrivelse"
+},
+"ADMIN_ABOUTCOMPANY_VIEW_TITLE":{
+"en-UK":"About Company",
+"da-DK":"Info om virksomheden"
+},
+"ADMIN_COMPANYINFO_VIEW_TITLE":{
+"en-UK":"Company",
+"da-DK":"Virksomheden"
+},
+"ADMIN_COMPANYINFO_NAMECELL_HEADER":{
+"en-UK":"Company name",
+"da-DK":"Virksomhedens navn"
+},
+"ADMIN_COMPANYINFO_WEBSITECELL_HEADER":{
+"en-UK":"Company Website",
+"da-DK":"Virksomhedens website"
+},
+"ADMIN_COMPANYINFO_ABOUTCELL_HEADER":{
+"en-UK":"About",
+"da-DK":"Om"
+},
+"ADMIN_COMPANYNAME_VIEW_TITLE":{
+"en-UK":"Company name",
+"da-DK":"Virksomhedens navn"
+},
+"ADMIN_COMPANYURL_VIEW_TITLE":{
+"en-UK":"Company Website",
+"da-DK":"Virksomhedens website"
+},
+"ADMIN_INVITEREVIEWER_VIEW_TITLE":{
+"en-UK":"Invite Reviewer",
+"da-DK":"Inviter en medlæser/partner"
+},
+"ADMIN_INVITEREVIEWER_EMAILCELL_PLACEHOLDER":{
+"en-UK":"Enter the reviewer's e-mail...",
+"da-DK":"Skriv mailadresse på medlæser/partner"
+},
+"ADMIN_INVITEREVIEWER_FAILEDALERT_TITLE":{
+"en-UK":"Cannot add reviewer",
+"da-DK":"Medlæser/partner kan ikke tilmeldes"
+},
+"ADMIN_INVITEREVIEWER_FAILEDALERT_MESSAGE":{
+"en-UK":"The reviewer is already part of the campaign",
+"da-DK":"Medlæseren/partneren er allerede tilmeldt"
+},
+"ADMIN_INVITEREVIEWER_INVALIDMAILALERT_TITLE":{
+"en-UK":"Invalid email",
+"da-DK":"Ugyldig email"
+},
+"ADMIN_INVITEREVIEWER_INVALIDMAILALERT_MESSAGE":{
+"en-UK":"Please enter a valid email",
+"da-DK":"Skriv en gyldig mailadresse"
+},
+"ADMIN_REVIEWERSLIST_VIEW_TITLE":{
+"en-UK":"Reviewers",
+"da-DK":"Medlæsere/partnere "
+},
+"ADMIN_REVIEWERSLIST_TABLE_EMPTYSTATE":{
+"en-UK":"You do not have any reviewers for this Job post. Invite your first reviewer by clicking +",
+"da-DK":"Du har ingen medlæsere/partnere til dette job. Inviter den første - klik +"
+},
+"ADMIN_PUBLISHDRAFT_CONFIRMALERT_TITLE":{
+"en-UK":"Are you sure?",
+"da-DK":"Er du sikker ?"
+},
+"ADMIN_PUBLISHDRAFT_CONFIRMALERT_MESSAGE":{
+"en-UK":"This cannot be undone.",
+"da-DK":"Dette kan ikke fortrydes"
+},
+"ADMIN_PUBLISHDRAFT_CONFIRMALERT_CANCELBUTTON":{
+"en-UK":"Cancel",
+"da-DK":"Fortryd"
+},
+"ADMIN_PUBLISHDRAFT_CONFIRMALERT_CONFIRMBUTTON":{
+"en-UK":"Yes, I'm sure",
+"da-DK":"Ja, jeg er sikker"
+},
+"ADMIN_WCONFIRMPUBLISH_CONFIRMALERT_TITLE":{
+"en-UK":"Are you sure you want to publish Job posting?",
+"da-DK":"Er du sikker på du vil lave dette jobopslag ?"
+},
+"ADMIN_WCONFIRMPUBLISH_CONFIRMALERT_MESSAGE":{
+"en-UK":"Once you publish, this Job posting cannot be edited.",
+"da-DK":"Når job opslaget er aktiveret kan du ikke længere rette i tekst eller spørgsmål."
+},
+"ADMIN_WCONFIRMPUBLISH_CONFIRMALERT_CONFIRMBUTTON":{
+"en-UK":"Publish",
+"da-DK":"Aktivèr"
+},
+"ADMIN_WCONFIRMPUBLISH_FAILEDALERT_TITLE":{
+"en-UK":"Cannot publish Job posting",
+"da-DK":"Kan ikke aktivere job opslaget"
+},
+"ADMIN_WCONFIRMPUBLISH_FAILEDALERT_MESSAGE":{
+"en-UK":"Please try again or contact support.",
+"da-DK":"Prøv venligst igen eller kontakt support"
+},
+"ADMIN_WCONFIRMPUBLISH_NOCOUPONCODE_TITLE":{
+"en-UK":"Please insert a coupon code",
+"da-DK":"Skriv aktiveringskoden"
+},
+"ADMIN_WCONFIRMPUBLISH_NOCOUPONCODE_MESSAGE":{
+"en-UK":"In order to publish a job post so applicants can apply to it, you need a coupon code. Please contact support in order to get one.",
+"da-DK":"For at kunne aktivere job opslaget skal du bruge en aktiveringskode. Kontakt support for at få en kode."
+},
+"ADMIN_WCONFIRMPUBLISH_HEADSECTION_FOOTER":{
+"en-UK":"Once you publish you can no longer edit text or questions.\nAre you sure you want to publish?",
+"da-DK":"Når job opslaget er aktiveret kan du ikke længere rette i tekst eller spørgsmål."
+},
+"ADMIN_WCONFIRMPUBLISH_CANCELSECTION_FOOTER":{
+"en-UK":"Cancel and return to your review",
+"da-DK":"Annuller og vend tilbage til din bedømmelse"
+},
+"ADMIN_WCONFIRMPUBLISH_SAVEANDEXITSECTION_FOOTER":{
+"en-UK":"Save and exit to main.\nYour job posting gets saved for later review and publishing.",
+"da-DK":"Gem og gå retur til hovedmenu.\nDit job opslag er gemt til senere vurdering og aktivering. "
+},
+"ADMIN_WCONFIRMPUBLISH_CODECELL_HEADER":{
+"en-UK":"Job posting code",
+"da-DK":"Job opslags kode "
+},
+"ADMIN_WCONFIRMPUBLISH_ACTIONBUTTON_PROCESSINGHEADER":{
+"en-UK":"Publishing...",
+"da-DK":"Aktivering..."
+},
+"ADMIN_WCONFIRMPUBLISH_ACTIONBUTTON_HEADER":{
+"en-UK":"Confirm publishing",
+"da-DK":"Bekræft aktivering"
+},
+"ADMIN_WCONFIRMPUBLISH_SAVEANDEXITBUTTON_TITLE":{
+"en-UK":"Save and exit to main",
+"da-DK":"Gem og gå til hovedmenu"
+},
+"ADMIN_WCONFIRMPUBLISH_PUBLISHSECTION_FOOTER":{
+"en-UK":"Need to obtain activation code? Please visit our webste or write to support for more info."
+},
+"ADMIN_WPUBLISHEDCAMPAIGN_HEADERSECTION_FOOTER":{
+"en-UK":"Congratulations! Your job post is now published.\n\nThis is the link to your job post.\nYou will also receive this link on your e-mail.",
+"da-DK":"Tillykke! Dit job opslag er nu aktiveret.\n\nDette er linket til dit job opslagt.\nDu vil også modtage dette link som email."
+},
+"ADMIN_WPUBLISHEDCAMPAIGN_COPYBUTTON_TITLE":{
+"en-UK":"Copy to clipboard",
+"da-DK":"Kopier til udklipsholder"
+},
+"ADMIN_PREVIEWER_FINISHBUTTON_TITLE":{
+"en-UK":"Finish",
+"da-DK":"Færdig"
+},
+"ADMIN_PREVIEWER_RATEBUTTON_TITLE":{
+"en-UK":"Rate",
+"da-DK":"Vurdér"
+},
+"ADMIN_PREVIEWER_CANNOTSTARTALERT_TITLE":{
+"en-UK":"An error occured",
+"da-DK":"Der skete en fejl"
+},
+"ADMIN_PREVIEWER_CANNOTSTARTALERT_MESSAGE":{
+"en-UK":"Cannot start preview. Please try again.",
+"da-DK":"Preview kan ikke starte. Prøv igen."
+},
+"ADMIN_QUESTIONDESCRIPTION_VIEW_TITLE":{
+"en-UK":"Question description",
+"da-DK":"Beskrivelse af spørgsmål"
+},
+"ADMIN_QUESTIONTITLE_VIEW_TITLE":{
+"en-UK":"Question title",
+"da-DK":"Overskrift/titel på spørgsmål"
+},
+"ADMIN_RECORDER_NAVBARBUTTON_START":{
+"en-UK":"Start recording",
+"da-DK":"Start optagelse"
+},
+"ADMIN_RECORDER_STATUSLABEL_TEXT":{
+"en-UK":"Tap anywhere to start recording. Tap again to stop.",
+"da-DK":"Tryk på skærmen for at optage. Tryk igen for at stoppe"
+},
+"ADMIN_RECORDER_NAVBARBUTTON_STOP":{
+"en-UK":"Stop",
+"da-DK":"Stop"
+},
+"ADMIN_RECORDER_FAILEDSAVEALERT_TITLE":{
+"en-UK":"Cannot save video",
+"da-DK":"Videoen kan ikke gemmes"
+},
+"ADMIN_RECORDER_FAILEDSAVEALERT_MESSAGE":{
+"en-UK":"An error occured while saving video. Please try again.",
+"da-DK":"Der skete en fejl. Videoen blev ikke gemt. Start venligst igen. "
+},
+"ADMIN_RECORDER_THANKYOUVIEW_TITLE":{
+"en-UK":"Thank you recording",
+"da-DK":"Optagelse af 'Tak for din ansøgning' "
+},
+"ADMIN_RECORDER_QUESTIONVIEW_TITLE":{
+"en-UK":"Record your question",
+"da-DK":"Optag dit spørgsmål"
+},
+"ADMIN_QUESTIONDETAILS_HEADERTYPE_HEADER":{
+"en-UK":"Record an introduction to the job and what you seek in a candidate.\nYou can record as many times as you like.",
+"da-DK":"Lav/optag en introduktion til jobbet og fortæl hvad det er du søger hos kandidaterne.\nDu kan optage så mange gange du vil."
+},
+"ADMIN_QUESTIONDETAILS_HEADERTYPE_WHENDONE":{
+"en-UK":"\nWhen you are satisfied, click Next.",
+"da-DK":"\nNår du er tilfreds, klik Næste."
+},
+"ADMIN_QUESTIONDETAILS_QUESTIONTYPE_HEADER":{
+"en-UK":"Make a header for your question and a short description. Both will be visible to the applicant. Record the question.",
+"da-DK":"Lav en overskrift til dit spørgsmål og en kort beskrivelse. Begge dele vil være synlige for ansøgeren. optag spørgsmålet."
+},
+"ADMIN_QUESTIONDETAILS_QUESTIONTYPE_WHENDONE":{
+"en-UK":"\nWhen done, click Save",
+"da-DK":"\nKlik 'færdig' når dette er gjort "
+},
+"ADMIN_QUESTIONDETAILS_FREERANGETYPE_HEADER":{
+"en-UK":"This is optional. You may skip recording this video.",
+"da-DK":"Dette er frivilligt. Du behøver ikke optage denne video"
+},
+"ADMIN_QUESTIONDETAILS_FOOTERTYPE_HEADER":{
+"en-UK":"Record a Thanks for your time for the applicant.",
+"da-DK":"Optag en 'Tak for din tid og din ansøgning' til ansøgeren."
+},
+"ADMIN_QUESTIONDETAILS_FOOTERTYPE_WHENDONE":{
+"en-UK":"\nWhen done, click Next",
+"da-DK":"\nKlik 'færdig' når dette er gjort "
+},
+"ADMIN_QUESTIONDETAILS_VIEW_TITLE":{
+"en-UK":"Question",
+"da-DK":"Spørgsmål"
+},
+"ADMIN_QUESTIONDETAILS_FAILEDADDALERT_TITLE":{
+"en-UK":"Cannot add question",
+"da-DK":"Spørgsmålet kan ikke oprettes"
+},
+"ADMIN_QUESTIONDETAILS_FAILEDADDALERT_MESSAGE":{
+"en-UK":"An error occured",
+"da-DK":"Der skete en fejl"
+},
+"ADMIN_QUESTIONDETAILS_PREVIEWVIEW_TITLE":{
+"en-UK":"Question preview",
+"da-DK":"Se spørgsmål igen"
+},
+"ADMIN_QUESTIONDETAILS_STILLUPLOADINGALERT_TITLE":{
+"en-UK":"Please wait",
+"da-DK":"Vent venligst"
+},
+"ADMIN_QUESTIONDETAILS_STILLUPLOADINGALERT_MESSAGE":{
+"en-UK":"Video is still uploading",
+"da-DK":"Videoen er ved at uploade"
+},
+"ADMIN_QUESTIONDETAILS_NOVIDEOALERT_TITLE":{
+"en-UK":"No video found for this question",
+"da-DK":"Der er ikke fundet nogen video til dette spørgsmål"
+},
+"ADMIN_QUESTIONDETAILS_NOVIDEOALERT_MESSAGE":{
+"en-UK":"Please record a video for this question.",
+"da-DK":"Optag en video til dette spørgsmål"
+},
+"ADMIN_QUESTIONDETAILS_CONFIRMREMOVEALERT_TITLE":{
+"en-UK":"Are you sure you want to remove this question?",
+"da-DK":"Er du sikker på du vil fjeren dette spørgsmål?"
+},
+"ADMIN_QUESTIONDETAILS_CONFIRMREMOVEALERT_MESSAGE":{
+"en-UK":"This cannot be undone",
+"da-DK":"Denne handling kan ikke fortrydes"
+},
+"ADMIN_QUESTIONDETAILS_CONFIRMREMOVEALERT_REMOVEBUTTON":{
+"en-UK":"Remove",
+"da-DK":"Fjern"
+},
+"ADMIN_QUESTIONDETAILS_CANNOTREMOVEALERT_TITLE":{
+"en-UK":"Cannot remove question",
+"da-DK":"Spørgsmålet kan ikke fjernes"
+},
+"ADMIN_QUESTIONDETAILS_CANNOTREMOVEALERT_MESSAGE":{
+"en-UK":"An error occured",
+"da-DK":"Der skete en fejl"
+},
+"ADMIN_QUESTIONDETAILS_NOTITLEALERT_TITLE":{
+"en-UK":"The question does not have a title",
+"da-DK":"Spørgsmålet har ingen overskrift/titel "
+},
+"ADMIN_QUESTIONDETAILS_NOTITLEALERT_MESSAGE":{
+"en-UK":"You have to enter a title for this question.",
+"da-DK":"Du skal lave en overskrift/titel til spørgsmålet"
+},
+"ADMIN_QUESTIONDETAILS_NODESCRIPTIONALERT_TITLE":{
+"en-UK":"The question does not have a description",
+"da-DK":"Spørgsmålet har ingen beskrivelse"
+},
+"ADMIN_QUESTIONDETAILS_NODESCRIPTIONALERT_MESSAGE":{
+"en-UK":"You have to enter a description for this question.",
+"da-DK":"Du skal lave en beskrivelse til spørgsmålet"
+},
+"ADMIN_QUESTIONDETAILS_PREVIEWBUTTON_TITLE":{
+"en-UK":"Preview recording",
+"da-DK":"Se optagelsen igen"
+},
+"ADMIN_QUESTIONDETAILS_RECORDBUTTON_TITLE":{
+"en-UK":"Record new",
+"da-DK":"Optag ny"
+},
+"ADMIN_QUESTIONDETAILS_REMOVEBUTTON_TITLE":{
+"en-UK":"Remove question",
+"da-DK":"Fjern spørgsmål"
+},
+"ADMIN_QUESTIONDETAILS_HEADERLABEL_HEADER":{
+"en-UK":"Header",
+"da-DK":"Overskrift/titel på spørgsmål"
+},
+"ADMIN_QUESTIONDETAILS_DESCRIPTIONLABEL_HEADER":{
+"en-UK":"Description",
+"da-DK":"Beskrivelse"
+},
+"ADMIN_QUESTIONLIST_VIEW_TITLE":{
+"en-UK":"Questions",
+"da-DK":"Spørgsmål"
+},
+"ADMIN_QUESTIONLIST_NOTALLUPLOADEDALERT_TITLE":{
+"en-UK":"Not all of your videos are uploaded",
+"da-DK":"Ikke alle dine videoer er blevet uploaded"
+},
+"ADMIN_QUESTIONLIST_NOTALLUPLOADEDALERT_MESSAGE":{
+"en-UK":"Please wait while we upload all of your videos.",
+"da-DK":"Vent venligt mens dine videoer bliver uploaded"
+},
+"ADMIN_QUESTIONLIST_PREVIEWVIEW_TITLE":{
+"en-UK":"All questions preview",
+"da-DK":"Se alle spørgsmål igen"
+},
+"ADMIN_QUESTIONLIST_NOQUESTIONSALERT_TITLE":{
+"en-UK":"You don't have any questions",
+"da-DK":"Du har ingen spørgsmål"
+},
+"ADMIN_QUESTIONLIST_NOQUESTIONSALERT_MESSAGE":{
+"en-UK":"Record your questions and click here to play them all.",
+"da-DK":"Optag dit spørgsmål og klik her for at afspille dem alle"
+},
+"ADMIN_QUESTIONLIST_LISTSECTION_HEADER":{
+"en-UK":"Questions",
+"da-DK":"Spørgsmål"
+},
+"ADMIN_QUESTIONLIST_FREERANGESECTION_HEADER":{
+"en-UK":"Open ended question (Not mandatory)",
+"da-DK":"Åbent spørgsmål (Ikke obligatorisk)"
+},
+"ADMIN_QUESTIONLIST_LISTSECTION_DESCRIPTION":{
+"en-UK":"Record the questions that you would like to be answered by the applicant. You must make a minimum of 3 questions to ask the applicant.",
+"da-DK":"Optag de spørgsmål du vil have ansøgerne til at svare på. Der skal være minimum 3 spørgsmål"
+},
+"ADMIN_QUESTIONLIST_LISTSECTION_DESCRIPTIONWHENDONE":{
+"en-UK":"\nWhen done, click Next.",
+"da-DK":"\nnår du er færdig, klik 'næste'."
+},
+"ADMIN_QUESTIONLIST_ADDBUTTON_HEADER":{
+"en-UK":"Add question",
+"da-DK":"Tilføj et spørgsmål"
+},
+"ADMIN_QUESTIONLIST_FREERANGEBUTTON_HEADER":{
+"en-UK":"Record open ended question",
+"da-DK":"Optage det 'åbne spørgsmål'"
+},
+"ADMIN_WRECORDER_FAILEDALERT_TITLE":{
+"en-UK":"An error occured while saving",
+"da-DK":"Der skete en fejl - det blev ikke gemt"
+},
+"ADMIN_WRECORDER_FAILEDALERT_MESSAGE":{
+"en-UK":"Your changes will not be saved.",
+"da-DK":"Dine ændringer bliver ikke gemt"
+},
+"ADMIN_WIZARD_NEXTBUTTON_TITLE":{
+"en-UK":"Next",
+"da-DK":"Næste"
+},
+"ADMIN_WIZARD_SAVEANDBACKBUTTON_TITLE_IPHONE":{
+"en-UK":"Save and back",
+"da-DK":"Gem og tilbage"
+},
+"ADMIN_WIZARD_SAVEANDBACKBUTTON_TITLE_IPAD":{
+"en-UK":"Save and return to main",
+"da-DK":"Gem og retur til hovedmenu"
+},
+"ADMIN_DRAFT_NAVBAR_CREATEDON":{
+"en-UK":"Created On: [DATE]",
+"da-DK":"Oprettet: [DATE]"
+},
+"ADMIN_DRAFT_NAVBAR_PUBLISHDATE":{
+"en-UK":"Publish Date: [DATE]",
+"da-DK":"Aktiveret: [DATE]"
+},
+"ADMIN_DRAFT_NAVBAR_NOTPUBLISHED":{
+"en-UK":"Not Published",
+"da-DK":"Ikke aktiveret"
+},
+"ADMIN_DRAFT_NAVBAR_DELETE":{
+"en-UK":"Delete Job Posting",
+"da-DK":"Slet job opslag"
+},
+"ADMIN_DRAFT_NAVBAR_GOTOJOBOFFERINGPAGE":{
+"en-UK":"Go to Job offering page",
+"da-DK":"Gå til job opslags siden"
+},
+"ADMIN_DRAFT_NAVBAR_CLICKTOUPLOADIMAGE":{
+"en-UK":"Click here to upload your company logo",
+"da-DK":"Klik her og upload virksomhedens logo"
+},
+"ADMIN_DRAFT_CONFIRMDELETE_TITLE":{
+"en-UK":"Are you sure you want to delete this job post?",
+"da-DK":"Er du sikker på du vil slette dette job opslag"
+},
+"ADMIN_DRAFT_CONFIRMDELETE_MESSAGE":{
+"en-UK":"This cannot be undone.",
+"da-DK":"Dette kan ikke fortrydes"
+},
+"ADMIN_DRAFT_CONFIRMDELETE_DELETEBUTTON":{
+"en-UK":"Delete",
+"da-DK":"Slet"
+},
+"ADMIN_DRAFT_FAILEDDELETEALERT_TITLE":{
+"en-UK":"Cannot delete job post",
+"da-DK":"Job opslag kan ikke slettes"
+},
+"ADMIN_DRAFT_FAILEDDELETEALERT_MESSAGE":{
+"en-UK":"An error occured.",
+"da-DK":"Det skete en fejl"
+},
+"ADMIN_DRAFT_EDITNAME_HEADER":{
+"en-UK":"Edit Job offering name",
+"da-DK":"Ret navn på job opslag"
+},
+"ADMIN_DRAFT_COMPANYINFO_HEADER":{
+"en-UK":"Company Info",
+"da-DK":"Info om virksomheden"
+},
+"ADMIN_DRAFT_EDITAPPLYPAGE_HEADER":{
+"en-UK":"Edit job offerings page",
+"da-DK":"Ret navn på job opslag"
+},
+"ADMIN_DRAFT_REVIEWHEADERRECORDING_HEADER":{
+"en-UK":"Review intro recording",
+"da-DK":"Se optagelsen af intro igen"
+},
+"ADMIN_DRAFT_REVIEWQUESTIONS_HEADER":{
+"en-UK":"Review Questions",
+"da-DK":"Se spørgsmålene igen"
+},
+"ADMIN_DRAFT_REVIEWFOOTERRECORDING_HEADER":{
+"en-UK":"Review Thank you recording",
+"da-DK":"Se optagelsen af tak for din ansøgning"
+},
+"ADMIN_DRAFT_INVITEREVIEWERS_HEADER":{
+"en-UK":"Send Job post to reviewers",
+"da-DK":"Send job opslaget til en medlæser/partner"
+},
+"ADMIN_DRAFT_REVIEWAPPLYPAGE_HEADER":{
+"en-UK":"Review job offerings page",
+"da-DK":"Se siden med job opslaget"
+},
+"ADMIN_DRAFT_PUBLISH_HEADER":{
+"en-UK":"Publish",
+"da-DK":"Aktivér"
+},
+"ADMIN_DRAFT_ARCHIVE_HEADER":{
+"en-UK":"Complete and Archive Job posting",
+"da-DK":"Færdiggør og arkivé jobopslag"
+},
+"ADMIN_WREVIEWCAMPAIGN_PUBLISHBUTTON_HEADER":{
+"en-UK":"Publish",
+"da-DK":"Aktivér"
+},
+"ADMIN_WREVIEWCAMPAIGN_FAILEDPUBLISHALERT_TITLE":{
+"en-UK":"Cannot publish job post",
+"da-DK":"Job opslag kan ikke aktiveres"
+},
+"ADMIN_WREVIEWCAMPAIGN_FAILEDPUBLISHALERT_MESSAGE":{
+"en-UK":"You are missing some required fields. Please fill all info before publishing job post.",
+"da-DK":"Du mangler at udfylde nogle felter. Udfyld venligst alle felter før du aktiverer job opslaget"
+},
+"ADMIN_CAMPAIGNCELL_NOTPUBLISHED_HEADER":{
+"en-UK":"Not published yet",
+"da-DK":"Ikke aktiveret endnu"
+},
+"ADMIN_CAMPAIGNCELL_DAYSLEFT_HEADER":{
+"en-UK":"[NUMBER] [DAYS] left",
+"da-DK":"[NUMBER] [DAYS] left"
+},
+"ADMIN_CAMPAIGNCELL_CLOSEDON_HEADER":{
+"en-UK":"Closed on: [DATE]",
+"da-DK":"Lukket den: [DATE]"
+},
+"ADMIN_CAMPAIGNCELL_PUBLISHTOINVITE_HEADER":{
+"en-UK":"Publish to invite applicants",
+"da-DK":"Aktiver for at invitere ansøgere "
+},
+"ADMIN_CAMPAIGNCELL_NUMBEROFAPPLICANTS_HEADER":{
+"en-UK":"[NUMBER] [APPLICANTS]",
+"da-DK":"[NUMBER] [APPLICANTS]"
+},
+"ADMIN_CAMPAIGNCELL_BYCOMPANY_HEADER":{
+"en-UK":"by [COMPANY]",
+"da-DK":"af [COMPANY]"
+},
+"ADMIN_CAMPAIGNLIST_SEGMENT_CURRENT":{
+"en-UK":"Current",
+"da-DK":"Nuværende"
+},
+"ADMIN_CAMPAIGNLIST_SEGMENT_DRAFTS":{
+"en-UK":"Drafts",
+"da-DK":"Kladder"
+},
+"ADMIN_CAMPAIGNLIST_SEGMENT_ARCHIVED":{
+"en-UK":"Archived",
+"da-DK":"Arkiverede"
+},
+"ADMIN_CAMPAIGNLIST_EMPTYSTATE_HEADER":{
+"en-UK":"No job posts for the current selection",
+"da-DK":"Ingen job oplag med de valgte kriterier"
+},
+"ADMIN_CAMPAIGNLIST_VIEW_TITLE_IPHONE":{
+"en-UK":"Postings",
+"da-DK":"Opslag"
+},
+"ADMIN_CAMPAIGNLIST_VIEW_TITLE_IPAD":{
+"en-UK":"Job postings",
+"da-DK":"Job opslag"
+},
+"ADMIN_CAMPAIGNLIST_NAVBARBUTTON_CREATENEW":{
+"en-UK":"Create new post",
+"da-DK":"Opret nyt job opslag"
+},
+"ADMIN_MENU_ADD":{
+"en-UK":"Add",
+"da-DK":"Tilføj"
+},
+"ADMIN_MENU_LANGUAGE":{
+"en-UK":"Language",
+"da-DK":"Sprog"
+},
+"ADMIN_MENU_SUPPORT":{
+"en-UK":"Support",
+"da-DK":"Support"
+},
+"ADMIN_MENU_LOGOUT":{
+"en-UK":"Logout",
+"da-DK":"Log ud"
+},
+"ADMIN_CAMPAIGNLIST_FAILEDCREATEALERT_TITLE":{
+"en-UK":"Cannot create job post",
+"da-DK":"Der kan ikke oprettes et job opslag"
+},
+"ADMIN_CAMPAIGNLIST_FAILEDCREATEALERT_MESSAGE":{
+"en-UK":"An error occured",
+"da-DK":"Der skete en fejl"
+},
+"ADMIN_NEWCAMPAIGN_VIEW_TITLE":{
+"en-UK":"New Job post",
+"da-DK":"Nyt job opslag"
+},
+"ADMIN_NEWCAMPAIGN_NAVBARBUTTON_CREATE":{
+"en-UK":"Create",
+"da-DK":"Opret "
+},
+"ADMIN_NEWCAMPAIGN_FAILEDCREATEALERT_TITLE":{
+"en-UK":"Cannot create Job post",
+"da-DK":"Kan ikke oprette job"
+},
+"ADMIN_NEWCAMPAIGN_FAILEDCREATEALERT_MESSAGE":{
+"en-UK":"An error occured. Please try again or contact support.",
+"da-DK":"Der skete en fejl. Prøv venligst igen eller kontakt support."
+},
+"ADMIN_NEWCAMPAIGN_JOBTITLELABEL_HEADER":{
+"en-UK":"Job title",
+"da-DK":"Job titel"
+},
+"ADMIN_COMMENTCELL_BYUSER_HEADER":{
+"en-UK":"by [USERNAME]",
+"da-DK":"af [USERNAME]"
+},
+"ADMIN_COMMENTCELL_VISIBLETOYOU_HEADER":{
+"en-UK":"(visible only to you)",
+"da-DK":"(kun synligt for dig)"
+},
+"ADMIN_COMMENTCELL_ONDATE_HEADER":{
+"en-UK":"on [DATE]",
+"da-DK":"den [DATE]"
+},
+"ADMIN_COMMENT_VIEW_TITLE":{
+"en-UK":"Insert comment",
+"da-DK":"Insæt kommentar"
+},
+"ADMIN_COMMENT_ISPRIVATELABEL_HEADER":{
+"en-UK":"Private comment?",
+"da-DK":"Privat kommentar"
+},
+"ADMIN_REVIEW_VIEW_TITLE":{
+"en-UK":"Review",
+"da-DK":"Se igen"
+},
+"ADMIN_ANSWERS_PLAYLISTSECTION_HEADER":{
+"en-UK":"Playlist",
+"da-DK":"Playliste"
+},
+"ADMIN_ANSWERS_ANSWERSSECTION_HEADER":{
+"en-UK":"Answers",
+"da-DK":"Svar"
+},
+"ADMIN_ANSWERS_PLAYALLBUTTON_TITLE":{
+"en-UK":"Play full interview",
+"da-DK":"Afspil hele interviewet"
+},
+"ADMIN_ANSWERS_PLAYANSWERSBUTTON_TITLE":{
+"en-UK":"Play only answers",
+"da-DK":"Afspil kun svarene"
+},
+"ADMIN_COMMENTS_COMMENTSSECTION_HEADER":{
+"en-UK":"Comments",
+"da-DK":"Kommentarer"
+},
+"ADMIN_COMMENTS_RATEBUTTON_TITLE":{
+"en-UK":"Rate applicant",
+"da-DK":"Vurdér ansøgeren"
+},
+"ADMIN_COMMENTS_EMPTYSTATE_HEADER":{
+"en-UK":"No comments for this applicant",
+"da-DK":"Ingen kommentarer til denne ansøger"
+},
+"ADMIN_COMMENTS_ADDBUTTON_HEADER":{
+"en-UK":"Add new comment",
+"da-DK":"Tilføj ny kommentar"
+},
+"ADMIN_INFO_DOCUMENTSSECTION_HEADER":{
+"en-UK":"CV Documents",
+"da-DK":"CV dokumenter"
+},
+"ADMIN_INFO_DOCUMENTSSECTION_EMPTYSTATE":{
+"en-UK":"This applicant has not uploaded any documents",
+"da-DK":"Ansøgeren har ikke uploaded nogen dokumenter"
+},
+"ADMIN_APPLICANTDETAILS_REMOVEFAVORITEBUTTON_TITLE":{
+"en-UK":"Remove from favorites",
+"da-DK":"Fjern fra favoritter"
+},
+"ADMIN_APPLICANTDETAILS_MARKFAVORITEBUTTON_TITLE":{
+"en-UK":"Mark as favorite",
+"da-DK":"Marker som favorit"
+},
+"ADMIN_APPLICANTDETAILS_FILESTAB_TITLE":{
+"en-UK":"Files",
+"da-DK":"Dokumenter"
+},
+"ADMIN_APPLICANTDETAILS_ANSWERSTAB_TITLE":{
+"en-UK":"Answers",
+"da-DK":"Svar"
+},
+"ADMIN_APPLICANTDETAILS_REVIEWTAB_TITLE":{
+"en-UK":"Review",
+"da-DK":"Se igen"
+},
+"ADMIN_APPLICANTDETAILS_FAILEDMARKFAVORITEALERT_TITLE":{
+"en-UK":"Cannot mark as favorite",
+"da-DK":"Kan ikke markeres som favorit"
+},
+"ADMIN_APPLICANTDETAILS_FAILEDMARKFAVORITEALERT_MESSAGE":{
+"en-UK":"An error occured.",
+"da-DK":"Der skete en fejl"
+},
+"ADMIN_APPLICANTDETAILS_RATESHEET_TITLE":{
+"en-UK":"Rate applicant",
+"da-DK":"Vurder ansøger"
+},
+"ADMIN_APPLICANTDETAILS_FAILEDRATEALERT_TITLE":{
+"en-UK":"Cannot rate applicant",
+"da-DK":"Kan ikke vurdere ansøger"
+},
+"ADMIN_APPLICANTDETAILS_FAILEDRATEALERT_NOFINISHEDMESSAGE":{
+"en-UK":"The applicant hasn't finished the interview and cannot be rated.",
+"da-DK":"Ansøgeren har ikke færdiggjort interview og kan ikke vurderes"
+},
+"ADMIN_APPLICANTDETAILS_FAILEDRATEALERT_GENERALMESSAGE":{
+"en-UK":"An error occured. Please try again later or contact support.",
+"da-DK":"Der skete en fejl. Prøv venligst igen eller kontakt"
+},
+"ADMIN_APPLICANTDETAILS_PLAYALLVIEW_TITLE":{
+"en-UK":"All answers preview",
+"da-DK":"Se alle svar igen"
+},
+"ADMIN_APPLICANTDETAILS_NOVIDEOSALERT_TITLE":{
+"en-UK":"Nothing to play",
+"da-DK":"Intet at afspille"
+},
+"ADMIN_APPLICANTDETAILS_NOVIDEOSALERT_MESSAGE":{
+"en-UK":"The current applicant does not have answers.",
+"da-DK":"Denne ansøger har ingen svar"
+},
+"ADMIN_APPLICANTDETAILS_PLAYSINGLEVIEW_TITLE":{
+"en-UK":"Answer preview",
+"da-DK":"Preview af svar"
+},
+"ADMIN_APPLICANTLIST_SEARCH_PLACEHOLDER":{
+"en-UK":"Search applicants",
+"da-DK":"Søg efter ansøgere"
+},
+"ADMIN_APPLICANTLIST_SEGMENT_NEW_IPHONE":{
+"en-UK":"New",
+"da-DK":"Nye"
+},
+"ADMIN_APPLICANTLIST_SEGMENT_NEW_IPAD":{
+"en-UK":"New Applicants",
+"da-DK":"Nye ansøgere"
+},
+"ADMIN_APPLICANTLIST_SEGMENT_ANSWERED":{
+"en-UK":"Answered",
+"da-DK":"Besvarede"
+},
+"ADMIN_APPLICANTLIST_SEGMENT_REVIEWED":{
+"en-UK":"Reviewed",
+"da-DK":"Er set"
+},
+"ADMIN_APPLICANTLIST_SEGMENT_STARRED":{
+"en-UK":"Starred",
+"da-DK":"Stjernemarkerede"
+},
+"ADMIN_APPLICANTLIST_EMPTYSTATE_HEADER":{
+"en-UK":"No applicants for the current selection",
+"da-DK":"Arkiverede"
+},
+"ADMIN_PUBLISHEDCAMPAIGN_ARCHIVEDLABEL_HEADER":{
+"en-UK":"Archived",
+"da-DK":"Arkiveret"
+},
+"ADMIN_PUBLISHEDCAMPAIGN_PUBLISHDATELABEL_HEADER":{
+"en-UK":"Publish Date: [DATE]",
+"da-DK":"Aktiveret: [DATE]"
+},
+"ADMIN_PUBLISHEDCAMPAIGN_ACTIVETILLLABEL_HEADER":{
+"en-UK":"Active Till: [DATE]",
+"da-DK":"Aktiv til: [DATE]"
+},
+"ADMIN_PUBLISHEDCAMPAIGN_GOTOJOBOFFERINGPAGEBUTTON_TITLE":{
+"en-UK":"Go to Job offerings page",
+"da-DK":"Gå til siden med job opslaget"
+},
+"ADMIN_PUBLISHEDCAMPAIGN_CONFIRMARCHIVEALERT_TITLE":{
+"en-UK":"Complete and Archive Job Posting. Are you sure?",
+"da-DK":"Færdiggør og arkiver job opslag. Er du sikker?"
+},
+"ADMIN_PUBLISHEDCAMPAIGN_CONFIRMARCHIVEALERT_CONFIRM":{
+"en-UK":"Complete and archive",
+"da-DK":"Færdiggør og arkiver."
+},
+"ADMIN_PUBLISHEDCAMPAIGN_FAILEDPUBLISHALERT_TITLE":{
+"en-UK":"Cannot complete and archive Job posting",
+"da-DK":"Kan ikke færdiggøre og arkivere job opslag. "
+},
+"ADMIN_PUBLISHEDCAMPAIGN_FAILEDPUBLISHALERT_MESSAGE":{
+"en-UK":"An error occured. Please try again later or contact support.",
+"da-DK":"Der er sket en fejl. Prøv venligt igen senere."
+},
+"ADMIN_PUBLISHEDCAMPAIGN_REVIEWERSLABEL_HEADER":{
+"en-UK":"Reviewers List"
+},
+"ADMIN_PUBLISHEDCAMPAIGN_PREVIEWAPPLYPAGELABEL_HEADER":{
+"en-UK":"Preview Job offering page",
+"da-DK":"Preview af job opslag "
+},
+"ADMIN_PUBLISHEDCAMPAIGN_ARCHIVELABEL_HEADER":{
+"en-UK":"Complete and Archive Job posting",
+"da-DK":"Færdiggør og arkivé jobopslaget"
+},
+"ADMIN_SETTINGS_LANGUAGEVIEW_TITLE":{
+"en-UK":"Select language",
+"da-DK":"Vælg sprog"
+}
+}
+}
