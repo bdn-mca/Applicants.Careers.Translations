@@ -46,19 +46,23 @@
 },
 "CLIENT_LOGINVIEW_LOGINBUTTON_TITLE":{
 "en-UK":"Sign in",
-"da-DK":"Sign ind"
+"da-DK":"Log ind"
 },
 "CLIENT_LOGINVIEW_SCANBUTTON_TITLE":{
-"en-UK":"Sign in with QR code"
+"en-UK":"Sign in with QR code",
+"da-DK":"Log ind med QR kode"
 },
 "CLIENT_LOGINVIEW_FAILEDSCANALERT_TITLE":{
-"en-UK":"Failed scanning QR code"
+"en-UK":"Failed scanning QR code",
+"da-DK":"Fejl i scanning af QR kode"
 },
 "CLIENT_LOGINVIEW_FAILEDSCANALERT_MESSAGE":{
-"en-UK":"Please try to scan the QR code again."
+"en-UK":"Please try to scan the QR code again.",
+"da-DK":"Scan QR koden igen."
 },
 "CLIENT_LOGINVIEW_LOGGINGINPROGRESS_TITLE":{
-"en-UK":"Signing in"
+"en-UK":"Signing in",
+"da-DK":"Log ind"
 },
 "CLIENT_REVIEWVIEW_REVIEWBUTTON_TITLE":{
 "en-UK":"Review your answer",
