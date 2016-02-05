@@ -969,6 +969,9 @@
 "ADMIN_SETTINGS_LANGUAGEVIEW_TITLE":{
 "en-UK":"Select language",
 "da-DK":"Vælg sprog"
+},
+"ADMIN_REGISTER_ACTIONBUTTON_REGISTERING":{
+"en-UK":"Registering"
 }
 }
 }
