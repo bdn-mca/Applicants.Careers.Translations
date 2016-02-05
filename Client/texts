@@ -195,6 +195,9 @@
 "CLIENT_PROFILEPICTURE_CANNOTUPLOADIMAGEALERT_MESSAGE":{
 "en-UK":"An error occured while uploading image. Please try again.",
 "da-DK":"Der skete en fejl under upload af billede. Prøv venligst igen.  "
+},
+"CLIENT_INTROVIDEO_ACTIONBUTTON_SKIP":{
+"en-UK":"Skip video"
 }
 }
 }
