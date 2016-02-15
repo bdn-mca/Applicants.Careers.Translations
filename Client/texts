@@ -20,6 +20,10 @@
 "es-IC": "es-ES"
 },
 "texts": {
+"CLIENT_GENERIC_CANCEL":{
+"en-UK":"Cancel",
+"da-DK":"Fortryd"
+},
 "CLIENT_COMPLETEDINTERVIEW_FINISHBUTTON_TITLE":{
 "en-UK":"Finish",
 "da-DK":"Færdig"
@@ -198,6 +202,18 @@
 },
 "CLIENT_INTROVIDEO_ACTIONBUTTON_SKIP":{
 "en-UK":"Skip video"
+},
+"CLIENT_INTERVIEW_ONBACKALERT_TOAST":{
+"en-UK":"You cannot go back while the interview lasts"
+},
+"CLIENT_PROFILEPICTURE_ONBACKALERT_TITLE":{
+"en-UK":"You will be logged out"
+},
+"CLIENT_PROFILEPICTURE_ONBACKALERT_MESSAGE":{
+"en-UK":"Are you sure you want to logout?"
+},
+"CLIENT_PROFILEPICTURE_ONBACKALERT_LOGOUTBUTTON":{
+"en-UK":"Logout"
 }
 }
 }
