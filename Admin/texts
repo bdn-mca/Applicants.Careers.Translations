@@ -955,6 +955,9 @@
 "en-UK":"An error occured. Please try again later or contact support.",
 "da-DK":"Der er sket en fejl. Prøv venligt igen senere."
 },
+"ADMIN_PUBLISHEDCAMPAIGN_NOTOWNER_MESSAGE":{
+"en-UK":"Only the owner of the job posting can archive it."
+},
 "ADMIN_PUBLISHEDCAMPAIGN_REVIEWERSLABEL_HEADER":{
 "en-UK":"Reviewers List"
 },
