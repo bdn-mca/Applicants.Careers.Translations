@@ -114,7 +114,7 @@
 },
 "ADMIN_REGISTER_FAILEDALERT_USEREXISTS":{
 "en-UK":"This user already exists. If you have forgotten your password, go to Forgot password.",
-"da-DK":"Denne bruger eksisterer allerede. hvis du har glemt din adgangskode gå til glemt adgangskode"
+"da-DK":"Denne bruger eksisterer allerede. Har du glemt din adgangskode gå til glemt adgangskode"
 },
 "ADMIN_REGISTER_FAILEDALERT_GENERALMESSAGE":{
 "en-UK":"Please try again.",
@@ -964,7 +964,7 @@
 },
 "ADMIN_PUBLISHEDCAMPAIGN_ARCHIVELABEL_HEADER":{
 "en-UK":"Complete and Archive Job posting",
-"da-DK":"Færdiggør og arkivé jobopslaget"
+"da-DK":"Færdiggør og arkiver job opslaget"
 },
 "ADMIN_SETTINGS_LANGUAGEVIEW_TITLE":{
 "en-UK":"Select language",
@@ -972,6 +972,9 @@
 },
 "ADMIN_REGISTER_ACTIONBUTTON_REGISTERING":{
 "en-UK":"Registering"
+},
+"ADMIN_DRAFTCAMPAIGN_UNTITLED_NAME":{
+"en-UK":"Untitled job post"
 }
 }
 }
