@@ -974,7 +974,8 @@
 "en-UK":"Registering"
 },
 "ADMIN_DRAFTCAMPAIGN_UNTITLED_NAME":{
-"en-UK":"Untitled job post"
+"en-UK":"Untitled job posting",
+"da-DK":"Unavngivet job"
 }
 }
 }
