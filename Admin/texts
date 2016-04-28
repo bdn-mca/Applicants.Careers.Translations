@@ -875,6 +875,9 @@
 "en-UK":"The applicant hasn't finished the interview and cannot be rated.",
 "da-DK":"Ansøgeren har ikke færdiggjort interview og kan ikke vurderes"
 },
+"ADMIN_APPLICANTDETAILS_FAILEDRATEALERT_ARCHIVEDMESSAGE":{
+"en-UK":"The job posting is archived and the rating of the applicant cannot be changed"
+},
 "ADMIN_APPLICANTDETAILS_FAILEDRATEALERT_GENERALMESSAGE":{
 "en-UK":"An error occured. Please try again later or contact support.",
 "da-DK":"Der skete en fejl. Prøv venligst igen eller kontakt"
@@ -956,7 +959,7 @@
 "da-DK":"Der er sket en fejl. Prøv venligt igen senere."
 },
 "ADMIN_PUBLISHEDCAMPAIGN_NOTOWNER_MESSAGE":{
-"en-UK":"Only the owner of the job posting can archive it."
+"en-UK":"Only the owner or administrator of the job posting can archive it."
 },
 "ADMIN_PUBLISHEDCAMPAIGN_REVIEWERSLABEL_HEADER":{
 "en-UK":"Reviewers List"
