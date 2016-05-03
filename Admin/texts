@@ -44,9 +44,6 @@
 "en-UK":"days",
 "da-DK":"dage"
 },
-"ADMIN_GENERIC_TODAY":{
-"en-UK":"Today"
-},
 "ADMIN_GENERIC_APPLICANT_SINGULAR":{
 "en-UK":"applicant",
 "da-DK":"ansøger"
@@ -685,6 +682,9 @@
 "ADMIN_CAMPAIGNCELL_DAYSLEFT_HEADER":{
 "en-UK":"[NUMBER] [DAYS] left",
 "da-DK":"[NUMBER] [DAYS] left"
+},
+"ADMIN_CAMPAIGNCELL_EXPIRESTODAY_HEADER":{
+"en-UK":"Expires today"
 },
 "ADMIN_CAMPAIGNCELL_CLOSEDON_HEADER":{
 "en-UK":"Closed on: [DATE]",
