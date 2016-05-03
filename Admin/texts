@@ -44,6 +44,9 @@
 "en-UK":"days",
 "da-DK":"dage"
 },
+"ADMIN_GENERIC_TODAY":{
+"en-UK":"Today"
+},
 "ADMIN_GENERIC_APPLICANT_SINGULAR":{
 "en-UK":"applicant",
 "da-DK":"ansøger"
