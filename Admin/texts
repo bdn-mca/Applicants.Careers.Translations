@@ -985,6 +985,18 @@
 "ADMIN_DRAFTCAMPAIGN_UNTITLED_NAME":{
 "en-UK":"Untitled job posting",
 "da-DK":"Unavngivet job"
+},
+"ADMIN_CAMPAIGNTYPE_QUICKSTART_BUTTONTITLE":{
+"en-UK":"Quick start"
+},
+"ADMIN_CAMPAIGNTYPE_FULLCONTROL_BUTTONTITLE":{
+"en-UK":"Full control"
+},
+"ADMIN_CAMPAIGNTYPE_QUICKSTART_DESCRIPTIONTEXT":{
+"en-UK":"Publish a job post within seconds with pre-recorded general interview questions"
+},
+"ADMIN_CAMPAIGNTYPE_FULLCONTROL_DESCRIPTIONTEXT":{
+"en-UK":"Record the interview yourself and ask the questions you want"
 }
 }
 }
