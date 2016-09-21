@@ -308,6 +308,9 @@
 "en-UK":"Once you publish you can no longer edit text or questions.\nAre you sure you want to publish?",
 "da-DK":"Når job opslaget er aktiveret kan du ikke længere rette i tekst eller spørgsmål."
 },
+"ADMIN_WCONFIRMPUBLISH_BACKTOREVIEW_BUTTONTITLE":{
+"en-UK":"Back to review"
+},
 "ADMIN_WCONFIRMPUBLISH_CANCELSECTION_FOOTER":{
 "en-UK":"Cancel and return to your review",
 "da-DK":"Annuller og vend tilbage til din bedømmelse"
