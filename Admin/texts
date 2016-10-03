@@ -78,7 +78,7 @@
 },
 "ADMIN_FORGOTPASSWORD_EMAILCELL_HEADER":{
 "en-UK":"E-mail",
-"da-DK":"email "
+"da-DK":"Email"
 },
 "ADMIN_FORGOTPASSWORD_ACTIONBUTTON_REQUEST":{
 "en-UK":"Request new password",
@@ -94,7 +94,7 @@
 },
 "ADMIN_LOGIN_EMAILCELL_HEADER":{
 "en-UK":"E-mail",
-"da-DK":"email "
+"da-DK":"Email"
 },
 "ADMIN_LOGIN_PASSWORDCELL_HEADER":{
 "en-UK":"Password",
@@ -130,7 +130,7 @@
 },
 "ADMIN_REGISTER_EMAILCELL_HEADER":{
 "en-UK":"E-mail",
-"da-DK":"email"
+"da-DK":"Email"
 },
 "ADMIN_REGISTER_PASSWORDCELL_HEADER":{
 "en-UK":"Password",
@@ -230,7 +230,7 @@
 },
 "ADMIN_INVITEREVIEWER_VIEW_TITLE":{
 "en-UK":"Invite Reviewer",
-"da-DK":"Inviter en medlæser/partner"
+"da-DK":"Invitér en medlæser/partner"
 },
 "ADMIN_INVITEREVIEWER_EMAILCELL_PLACEHOLDER":{
 "en-UK":"Enter the reviewer's e-mail...",
@@ -309,7 +309,8 @@
 "da-DK":"Når job opslaget er aktiveret kan du ikke længere rette i tekst eller spørgsmål."
 },
 "ADMIN_WCONFIRMPUBLISH_BACKTOREVIEW_BUTTONTITLE":{
-"en-UK":"Back to review"
+"en-UK":"Back to review",
+"da-DK":"Tilbage til review"
 },
 "ADMIN_WCONFIRMPUBLISH_CANCELSECTION_FOOTER":{
 "en-UK":"Cancel and return to your review",
@@ -336,7 +337,8 @@
 "da-DK":"Gem og gå til hovedmenu"
 },
 "ADMIN_WCONFIRMPUBLISH_PUBLISHSECTION_FOOTER":{
-"en-UK":"Need to obtain job posting code? Please visit our website or write to support for more info.\nYou can find support if you Save and exit to main, and open the menu in the top left."
+"en-UK":"Need to obtain job posting code? Please visit our website or write to support for more info.\nYou can find support if you Save and exit to main, and open the menu in the top left.",
+"da-DK":"Mangler du en kode til dit job opslag? Gå til vores website eller skriv til support.\nDu finder support ved at trykke 'gem'.Gå tilbage til hovedmenuen og åbn menuen øverts til venstre."
 },
 "ADMIN_WPUBLISHEDCAMPAIGN_HEADERSECTION_FOOTER":{
 "en-UK":"Congratulations! Your job post is now published.\n\nThis is the link to your job post.\nYou will also receive this link on your e-mail.",
@@ -460,7 +462,7 @@
 },
 "ADMIN_QUESTIONDETAILS_CONFIRMREMOVEALERT_TITLE":{
 "en-UK":"Are you sure you want to remove this question?",
-"da-DK":"Er du sikker på du vil fjeren dette spørgsmål?"
+"da-DK":"Er du sikker på du vil fjerne dette spørgsmål?"
 },
 "ADMIN_QUESTIONDETAILS_CONFIRMREMOVEALERT_MESSAGE":{
 "en-UK":"This cannot be undone",
@@ -560,7 +562,7 @@
 },
 "ADMIN_QUESTIONLIST_FREERANGEBUTTON_HEADER":{
 "en-UK":"Record open ended question",
-"da-DK":"Optage det 'åbne spørgsmål'"
+"da-DK":"Optag det 'åbne spørgsmål'"
 },
 "ADMIN_WRECORDER_FAILEDALERT_TITLE":{
 "en-UK":"An error occured while saving",
@@ -664,7 +666,7 @@
 },
 "ADMIN_DRAFT_ARCHIVE_HEADER":{
 "en-UK":"Complete and Archive Job posting",
-"da-DK":"Færdiggør og arkivé jobopslag"
+"da-DK":"Færdiggør og arkivér jobopslag"
 },
 "ADMIN_WREVIEWCAMPAIGN_PUBLISHBUTTON_HEADER":{
 "en-UK":"Publish",
@@ -684,10 +686,11 @@
 },
 "ADMIN_CAMPAIGNCELL_DAYSLEFT_HEADER":{
 "en-UK":"[NUMBER] [DAYS] left",
-"da-DK":"[NUMBER] [DAYS] left"
+"da-DK":"[NUMBER] [DAYS] tilbage"
 },
 "ADMIN_CAMPAIGNCELL_EXPIRESTODAY_HEADER":{
-"en-UK":"Expires today"
+"en-UK":"Expires today",
+"da-DK":"Udløber idag"
 },
 "ADMIN_CAMPAIGNCELL_CLOSEDON_HEADER":{
 "en-UK":"Closed on: [DATE]",
@@ -791,11 +794,11 @@
 },
 "ADMIN_COMMENT_VIEW_TITLE":{
 "en-UK":"Insert comment",
-"da-DK":"Insæt kommentar"
+"da-DK":"Indsæt kommentar"
 },
 "ADMIN_COMMENT_ISPRIVATELABEL_HEADER":{
 "en-UK":"Private comment?",
-"da-DK":"Privat kommentar"
+"da-DK":"Privat kommentar?"
 },
 "ADMIN_REVIEW_VIEW_TITLE":{
 "en-UK":"Review",
@@ -847,7 +850,7 @@
 },
 "ADMIN_APPLICANTDETAILS_MARKFAVORITEBUTTON_TITLE":{
 "en-UK":"Mark as favorite",
-"da-DK":"Marker som favorit"
+"da-DK":"Markér som favorit"
 },
 "ADMIN_APPLICANTDETAILS_FILESTAB_TITLE":{
 "en-UK":"Files",
@@ -871,22 +874,23 @@
 },
 "ADMIN_APPLICANTDETAILS_RATESHEET_TITLE":{
 "en-UK":"Rate applicant",
-"da-DK":"Vurder ansøger"
+"da-DK":"Vurdér ansøgeren"
 },
 "ADMIN_APPLICANTDETAILS_FAILEDRATEALERT_TITLE":{
 "en-UK":"Cannot rate applicant",
-"da-DK":"Kan ikke vurdere ansøger"
+"da-DK":"Kan ikke vurdere ansøgeren"
 },
 "ADMIN_APPLICANTDETAILS_FAILEDRATEALERT_NOFINISHEDMESSAGE":{
 "en-UK":"The applicant hasn't finished the interview and cannot be rated.",
-"da-DK":"Ansøgeren har ikke færdiggjort interview og kan ikke vurderes"
+"da-DK":"Ansøgeren har ikke færdiggjort interview og kan derfor ikke vurderes"
 },
 "ADMIN_APPLICANTDETAILS_FAILEDRATEALERT_ARCHIVEDMESSAGE":{
-"en-UK":"The job posting is archived and the rating of the applicant cannot be changed"
+"en-UK":"The job posting is archived and the rating of the applicant cannot be changed",
+"da-DK":"Jobopslaget er blevet arkiveret. Vurderingen af ansøgeren kan derfor ikke ændres."
 },
 "ADMIN_APPLICANTDETAILS_FAILEDRATEALERT_GENERALMESSAGE":{
 "en-UK":"An error occured. Please try again later or contact support.",
-"da-DK":"Der skete en fejl. Prøv venligst igen eller kontakt"
+"da-DK":"Der skete en fejl. Prøv venligst igen eller kontakt support."
 },
 "ADMIN_APPLICANTDETAILS_PLAYALLVIEW_TITLE":{
 "en-UK":"All answers preview",
@@ -930,7 +934,7 @@
 },
 "ADMIN_APPLICANTLIST_EMPTYSTATE_HEADER":{
 "en-UK":"No applicants for the current selection",
-"da-DK":"Arkiverede"
+"da-DK":"Der er ingen ansøgere til det aktuelle valg"
 },
 "ADMIN_PUBLISHEDCAMPAIGN_ARCHIVEDLABEL_HEADER":{
 "en-UK":"Archived",
@@ -950,11 +954,11 @@
 },
 "ADMIN_PUBLISHEDCAMPAIGN_CONFIRMARCHIVEALERT_TITLE":{
 "en-UK":"Complete and Archive Job Posting. Are you sure?",
-"da-DK":"Færdiggør og arkiver job opslag. Er du sikker?"
+"da-DK":"Færdiggør og arkivér job opslag. Er du sikker?"
 },
 "ADMIN_PUBLISHEDCAMPAIGN_CONFIRMARCHIVEALERT_CONFIRM":{
 "en-UK":"Complete and archive",
-"da-DK":"Færdiggør og arkiver."
+"da-DK":"Færdiggør og arkivér."
 },
 "ADMIN_PUBLISHEDCAMPAIGN_FAILEDPUBLISHALERT_TITLE":{
 "en-UK":"Cannot complete and archive Job posting",
@@ -962,13 +966,15 @@
 },
 "ADMIN_PUBLISHEDCAMPAIGN_FAILEDPUBLISHALERT_MESSAGE":{
 "en-UK":"An error occured. Please try again later or contact support.",
-"da-DK":"Der er sket en fejl. Prøv venligt igen senere."
+"da-DK":"Der er sket en fejl. Prøv venligt igen senere eller kontakt support."
 },
 "ADMIN_PUBLISHEDCAMPAIGN_NOTOWNER_MESSAGE":{
-"en-UK":"Only the owner or administrator of the job posting can archive it."
+"en-UK":"Only the owner or administrator of the job posting can archive it.",
+"da-DK":"Kun den der har oprettet job opslaget (eller administrator) kan arkivere det"
 },
 "ADMIN_PUBLISHEDCAMPAIGN_REVIEWERSLABEL_HEADER":{
-"en-UK":"Reviewers List"
+"en-UK":"Reviewers List",
+"da-DK":"Liste over medlæsere/partnere"
 },
 "ADMIN_PUBLISHEDCAMPAIGN_PREVIEWAPPLYPAGELABEL_HEADER":{
 "en-UK":"Preview Job offering page",
@@ -983,23 +989,28 @@
 "da-DK":"Vælg sprog"
 },
 "ADMIN_REGISTER_ACTIONBUTTON_REGISTERING":{
-"en-UK":"Registering"
+"en-UK":"Registering",
+"da-DK":"Registrering"
 },
 "ADMIN_DRAFTCAMPAIGN_UNTITLED_NAME":{
 "en-UK":"Untitled job posting",
 "da-DK":"Unavngivet job"
 },
 "ADMIN_CAMPAIGNTYPE_QUICKSTART_BUTTONTITLE":{
-"en-UK":"Quick start"
+"en-UK":"Quick start",
+"da-DK":"Kom hurtigt igang - vi har lavet noget af forarbejdet for dig"
 },
 "ADMIN_CAMPAIGNTYPE_FULLCONTROL_BUTTONTITLE":{
-"en-UK":"Full control"
+"en-UK":"Full control",
+"da-DK":"Her bestemmmer du det hele....."
 },
 "ADMIN_CAMPAIGNTYPE_QUICKSTART_DESCRIPTIONTEXT":{
-"en-UK":"Publish a job post within seconds with pre-recorded general interview questions"
+"en-UK":"Publish a job post within seconds with pre-recorded general interview questions",
+"da-DK":"Her kan du lave et jobopslag lynhurtigt. Der er allerede optaget 5 generelle spørgsmål på video som du kan bruge. "
 },
 "ADMIN_CAMPAIGNTYPE_FULLCONTROL_DESCRIPTIONTEXT":{
-"en-UK":"Record the interview yourself and ask the questions you want"
+"en-UK":"Record the interview yourself and ask the questions you want",
+"da-DK":"Lav dine egne videooptagelser og vælg de spørgsmål du ønsker at stille ansøgerne"
 }
 }
 }
