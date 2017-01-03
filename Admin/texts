@@ -1006,11 +1006,15 @@
 },
 "ADMIN_CAMPAIGNTYPE_QUICKSTART_DESCRIPTIONTEXT":{
 "en-UK":"With this 'plug and play' version we've made it very easy for you to start using this app for your recruitments",
-"da-DK":"Med denne “plug and play” version har vi forsøgt, at gøre det så nemt som muligt for dig at komme igang med at bruge appen til din rekruttering."
+"da-DK":"Med denne “ plug and play” version har vi forsøgt, at gøre det så nemt som muligt for dig at komme igang med at bruge appen til din rekruttering."
 },
 "ADMIN_CAMPAIGNTYPE_FULLCONTROL_DESCRIPTIONTEXT":{
 "en-UK":"With this version you fully decide what and how many questions you want to ask your applicants in app for your recruitments.",
 "da-DK":"Med denne version er det helt op til dig at bestemme hvilke samt hvor mange spoørgsmål du syns er relvant for din virksomhed, at stille ansøgerne"
+},
+"PRERECORDEDQUESTIONS_VIEW_TITLE":{
+"en-UK":"All questions preview",
+"da-DK":"Se alle spørgsmål igen"
 }
 }
 }
