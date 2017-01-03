@@ -36,6 +36,10 @@
 "en-UK":"Save",
 "da-DK":"Gem"
 },
+"ADMIN_GENERIC_PROCEED":{
+"en-UK":"Proceed",
+"da-DK":"Fortsæt"
+},
 "ADMIN_GENERIC_DAY_SINGULAR":{
 "en-UK":"day",
 "da-DK":"dag"
@@ -1015,6 +1019,9 @@
 "PRERECORDEDQUESTIONS_VIEW_TITLE":{
 "en-UK":"All questions preview",
 "da-DK":"Se alle spørgsmål igen"
+},
+"PRERECORDEDQUESTIONS_BUTTON_SEEALL":{
+"en-UK":"See all"
 }
 }
 }
