@@ -161,8 +161,8 @@
 "da-DK":"Login"
 },
 "ADMIN_APPLYPAGE_DEMOHTML":{
-"en-UK":"<p>Change to create your <strong>Job Description</strong> here.</p>",
-"da-DK":"<p>Skift for at oprette din <strong>Job beskrivelse</strong> her.</p>"
+"en-UK":"Change to create your Job Description here.",
+"da-DK":"Skift for at oprette din Job beskrivelse her."
 },
 "ADMIN_APPLYPAGE_VIEW_TITLE":{
 "en-UK":"Job Description",
