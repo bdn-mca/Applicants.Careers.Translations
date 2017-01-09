@@ -1002,11 +1002,11 @@
 },
 "ADMIN_CAMPAIGNTYPE_QUICKSTART_BUTTONTITLE":{
 "en-UK":"Quick start",
-"da-DK":"Kom hurtigt igang - vi har lavet noget af forarbejdet for dig"
+"da-DK":"'Plug and play version'. Kom hurtigt igang - vi har lavet forarbejdet for dig"
 },
 "ADMIN_CAMPAIGNTYPE_FULLCONTROL_BUTTONTITLE":{
 "en-UK":"Full control",
-"da-DK":"Her bestemmmer du det hele....."
+"da-DK":"'Fuld kontrol' - her klarer du næsten det hele selv...."
 },
 "ADMIN_CAMPAIGNTYPE_QUICKSTART_DESCRIPTIONTEXT":{
 "en-UK":"With this 'plug and play' version we've made it very easy for you to start using this app for your recruitments",
@@ -1014,17 +1014,20 @@
 },
 "ADMIN_CAMPAIGNTYPE_FULLCONTROL_DESCRIPTIONTEXT":{
 "en-UK":"With this version you fully decide what and how many questions you want to ask your applicants in app for your recruitments.",
-"da-DK":"Med denne version er det helt op til dig at bestemme hvilke samt hvor mange spoørgsmål du syns er relvant for din virksomhed, at stille ansøgerne"
+"da-DK":"Med denne 'fuld kontrol' version optager du selv dine spørgsmål til ansøgerne på video. Du kan helt selv bestemme hvilke/hvor mange spørgsmål du synes er relvant for din virksomhed, at stille ansøgerne"
 },
 "PRERECORDEDQUESTIONS_VIEW_TITLE":{
 "en-UK":"All questions preview",
-"da-DK":"Se alle spørgsmål igen"
+"da-DK":"Her er de 6 videooptagelser med spørgsmål til dine ansøgere"
 },
 "PRERECORDEDQUESTIONS_BUTTON_SEEALL":{
-"en-UK":"Play all"
+"en-UK":"Play all",
+"da-DK":"Afspil videooptagelser af alle spørgsmålene"
 },
 "PRERECORDEDQUESTIONS_FOOTER_DESCRIPTION":{
-"en-UK":"These will be the questions for your job posting. In the plug-and-play mode these questions cannot be changed. You can record your own questions by going back and choosing Full control."
+"en-UK":"These will be the questions for your job posting. In the plug-and-play mode these questions cannot be changed. You can record your own questions by going back and choosing Full control.",
+"da-DK":"Dette er videooptagelser af spørgsmålene til dine ansøgere. I denne 'plug and play' version er det ikke muligt, at ændre i spørgsmålene/videooptagelserne. Gå tilbage og vælg 'fuld kontrol', hvis du selv vil bestemme hvad dine ansøgere skal svare på af spørgsmål.
+"
 }
 }
 }
