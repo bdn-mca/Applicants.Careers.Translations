@@ -201,22 +201,28 @@
 "da-DK":"Der skete en fejl under upload af billede. Prøv venligst igen.  "
 },
 "CLIENT_INTROVIDEO_ACTIONBUTTON_SKIP":{
-"en-UK":"Skip video"
+"en-UK":"Skip video",
+"da-DK":"Skip video "
 },
 "CLIENT_INTERVIEW_ONBACKALERT_TOAST":{
-"en-UK":"You cannot go back while the interview lasts"
+"en-UK":"You cannot go back while the interview lasts",
+"da-DK":"Du kan ikke går tilbage mens interviewet  kører"
 },
 "CLIENT_PROFILEPICTURE_ONBACKALERT_TITLE":{
-"en-UK":"You will be logged out"
+"en-UK":"You will be logged out",
+"da-DK":"Du vil blive logget ud."
 },
 "CLIENT_PROFILEPICTURE_ONBACKALERT_MESSAGE":{
-"en-UK":"Are you sure you want to logout?"
+"en-UK":"Are you sure you want to logout?",
+"da-DK":"Er du sikker på du vil logge ud ?"
 },
 "CLIENT_PROFILEPICTURE_ONBACKALERT_LOGOUTBUTTON":{
-"en-UK":"Logout"
+"en-UK":"Logout",
+"da-DK":"Log ud"
 },
 "CLIENT_FINALUPLOAD_SHORTTITLELABEL_HEADER":{
-"en-UK":"Sending answers"
+"en-UK":"Sending answers",
+"da-DK":"Sender svar"
 }
 }
 }
