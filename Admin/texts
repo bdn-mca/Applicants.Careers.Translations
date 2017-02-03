@@ -178,7 +178,7 @@
 },
 "ADMIN_CAMPAIGNNAME_VIEW_TITLE":{
 "en-UK":"Job offering name",
-"da-DK":"Job beskrivelse"
+"da-DK":"Job navn"
 },
 "ADMIN_CAMPAIGNNAME_FAILEDALERT_TITLE":{
 "en-UK":"Cannot save Job offering name",
@@ -313,12 +313,12 @@
 "da-DK":"Når job opslaget er aktiveret kan du ikke længere rette i tekst eller spørgsmål."
 },
 "ADMIN_WCONFIRMPUBLISH_BACKTOREVIEW_BUTTONTITLE":{
-"en-UK":"Back to review",
-"da-DK":"Tilbage til review"
+"en-UK":"Back to the job post",
+"da-DK":"Gå tilbage til job opslaget"
 },
 "ADMIN_WCONFIRMPUBLISH_CANCELSECTION_FOOTER":{
-"en-UK":"Cancel and return to your review",
-"da-DK":"Annuller og vend tilbage til din bedømmelse"
+"en-UK":"Go back to make any changes before activation",
+"da-DK":"Gå tilbage for at lave eventuelle ændringer inden aktivering"
 },
 "ADMIN_WCONFIRMPUBLISH_SAVEANDEXITSECTION_FOOTER":{
 "en-UK":"Save and exit to main.\nYour job posting gets saved for later review and publishing.",
@@ -642,7 +642,7 @@
 },
 "ADMIN_DRAFT_EDITAPPLYPAGE_HEADER":{
 "en-UK":"Edit job offerings page",
-"da-DK":"Ret navn på job opslag"
+"da-DK":"Ret beskrivelse på job opslag"
 },
 "ADMIN_DRAFT_REVIEWHEADERRECORDING_HEADER":{
 "en-UK":"Review intro recording",
@@ -940,6 +940,10 @@
 "en-UK":"No applicants for the current selection",
 "da-DK":"Der er ingen ansøgere til det aktuelle valg"
 },
+"ADMIN_APPLICANTLIST_CAMPAIGNINFO_BUTTON_TITLE":{
+"en-UK":"Job post",
+"da-DK":"Job opslag"
+},
 "ADMIN_PUBLISHEDCAMPAIGN_ARCHIVEDLABEL_HEADER":{
 "en-UK":"Archived",
 "da-DK":"Arkiveret"
@@ -982,7 +986,7 @@
 },
 "ADMIN_PUBLISHEDCAMPAIGN_PREVIEWAPPLYPAGELABEL_HEADER":{
 "en-UK":"Preview Job offering page",
-"da-DK":"Preview af job opslag "
+"da-DK":"Preview af job opslag"
 },
 "ADMIN_PUBLISHEDCAMPAIGN_ARCHIVELABEL_HEADER":{
 "en-UK":"Complete and Archive Job posting",
