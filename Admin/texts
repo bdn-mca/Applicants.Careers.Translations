@@ -178,7 +178,7 @@
 },
 "ADMIN_CAMPAIGNNAME_VIEW_TITLE":{
 "en-UK":"Job offering name",
-"da-DK":"Job navn"
+"da-DK":"Job titel"
 },
 "ADMIN_CAMPAIGNNAME_FAILEDALERT_TITLE":{
 "en-UK":"Cannot save Job offering name",
