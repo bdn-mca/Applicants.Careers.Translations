@@ -664,6 +664,10 @@
 "en-UK":"Review job offerings page",
 "da-DK":"Se siden med job opslaget"
 },
+"ADMIN_DRAFT_REVIEW_INVITEREVIEWERS_FOOTER_TEXT":{
+"en-UK":"You can add new reviewers even after activating the job post.",
+"da-DK":"Du kan tilføje nye korrekturlæsere selv efter aktivering af jobbet indlæg."
+},
 "ADMIN_DRAFT_PUBLISH_HEADER":{
 "en-UK":"Publish",
 "da-DK":"Aktivér"
