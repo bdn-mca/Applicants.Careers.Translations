@@ -666,7 +666,7 @@
 },
 "ADMIN_DRAFT_REVIEW_INVITEREVIEWERS_FOOTER_TEXT":{
 "en-UK":"You can send the job post to reviewers even after activating.",
-"da-DK":"Du kan sende job opslag til partnere, selv efter aktivering."
+"da-DK":"Du kan altid invitere andre medlæsere/reviewers, efter job opslaget er aktiveret."
 },
 "ADMIN_DRAFT_PUBLISH_HEADER":{
 "en-UK":"Publish",
