@@ -714,7 +714,7 @@
 },
 "ADMIN_CAMPAIGNLIST_SEGMENT_CURRENT":{
 "en-UK":"Current",
-"da-DK":"Nuværende"
+"da-DK":"Aktive"
 },
 "ADMIN_CAMPAIGNLIST_SEGMENT_DRAFTS":{
 "en-UK":"Drafts",
