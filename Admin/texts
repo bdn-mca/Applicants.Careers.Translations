@@ -665,8 +665,8 @@
 "da-DK":"Se siden med job opslaget"
 },
 "ADMIN_DRAFT_REVIEW_INVITEREVIEWERS_FOOTER_TEXT":{
-"en-UK":"You can add new reviewers even after activating the job post.",
-"da-DK":"Du kan tilføje nye korrekturlæsere selv efter aktivering af jobbet indlæg."
+"en-UK":"You can send the job post to reviewers even after activating.",
+"da-DK":"Du kan sende job opslag til partnere, selv efter aktivering."
 },
 "ADMIN_DRAFT_PUBLISH_HEADER":{
 "en-UK":"Publish",
