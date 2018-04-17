@@ -68,6 +68,14 @@
 "en-UK":"Signing in",
 "da-DK":"Log ind"
 },
+"CLIENT_LOGINVIEW_OPENEMAILBUTTON_TITLE":{
+"en-UK":"Open email",
+"da-DK":"Open email"
+},
+"CLIENT_LOGINVIEW_LOGINDESCRIPTION":{
+"en-UK":"In order to login and start the interview, please open the email you have received from Applicants.Careers, and click Start Interview",
+"da-DK":"In order to login and start the interview, please open the email you have received from Applicants.Careers, and click Start Interview"
+},
 "CLIENT_REVIEWVIEW_REVIEWBUTTON_TITLE":{
 "en-UK":"Review your answer",
 "da-DK":"Se dit svar igen"
