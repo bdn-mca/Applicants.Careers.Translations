@@ -231,6 +231,18 @@
 "CLIENT_FINALUPLOAD_SHORTTITLELABEL_HEADER":{
 "en-UK":"Sending answers",
 "da-DK":"Sender svar"
+},
+"CLIENT_INTROTEXT_HEADER":{
+"en-UK":"Interview will begin shortly",
+"da-DK":"Interview will begin shortly"
+},
+"CLIENT_INTROTEXT_DESCRIPTION":{
+"en-UK":"First, you'll need to take a CV photo. After that, we've prepared a short practice session, so you'll feel how the interview process will go on.\n\nFinally, the interview will begin. Good luck!",
+"da-DK":"First, you'll need to take a CV photo. After that, we've prepared a short practice session, so you'll feel how the interview process will go on.\n\nFinally, the interview will begin. Good luck!"
+},
+"CLIENT_INTROTEXT_BOTTOMBUTTON_TITLE":{
+"en-UK":"Take CV photo",
+"da-DK":"Take CV photo"
 }
 }
 }
