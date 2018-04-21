@@ -173,8 +173,8 @@
 "da-DK":"Der skete en fejl. Start venligst igen. "
 },
 "CLIENT_INTERVIEW_STARTINLABEL_HEADER":{
-"en-UK":"Start answering in",
-"da-DK":"Start dit svar om"
+"en-UK":"Answer in",
+"da-DK":"Svar om"
 },
 "CLIENT_INTERVIEW_NEXTQUESTIONLABEL_HEADER":{
 "en-UK":"Next question in",
