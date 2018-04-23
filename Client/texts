@@ -24,6 +24,10 @@
 "en-UK":"Cancel",
 "da-DK":"Fortryd"
 },
+"CLIENT_GENERIC_CLOSE":{
+"en-UK":"Close",
+"da-DK":"Close"
+},
 "CLIENT_COMPLETEDINTERVIEW_FINISHBUTTON_TITLE":{
 "en-UK":"Finish",
 "da-DK":"Færdig"
