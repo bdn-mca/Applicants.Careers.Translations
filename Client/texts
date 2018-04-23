@@ -243,6 +243,14 @@
 "CLIENT_INTROTEXT_BOTTOMBUTTON_TITLE":{
 "en-UK":"Take CV photo",
 "da-DK":"Take CV photo"
+},
+"CLIENT_INTROTEXT_PRIVACYPOLICY_TITLE":{
+"en-UK":"Privacy policy",
+"da-DK":"Privacy policy"
+},
+"CLIENT_PRIVACYPOLICY_URL":{
+"en-UK":"https://google.com",
+"da-DK":"https://google.com"
 }
 }
 }
