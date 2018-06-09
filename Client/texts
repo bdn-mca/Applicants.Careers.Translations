@@ -1,260 +1,248 @@
 {
-"fallbacks": {
-"de-CH": "de-DE",
-"de-AT": "de-DE",
-"en-GB": "en-UK",
-"en-AU": "en-UK",
-"en-NZ": "en-UK",
-"en-ZA": "en-UK",
-"en-IE": "en-UK",
-"en-SG": "en-UK",
-"en-MY": "en-UK",
-"en-PH": "en-UK",
-"en-IL": "en-UK",
-"en-IN": "en-UK",
-"es-PE": "es-ES",
-"es-CO": "es-ES",
-"es-AR": "es-ES",
-"es-VE": "es-ES",
-"es-CL": "es-ES",
-"es-IC": "es-ES"
-},
-"texts": {
-"CLIENT_GENERIC_CANCEL":{
-"en-UK":"Cancel",
-"da-DK":"Fortryd"
-},
-"CLIENT_GENERIC_CLOSE":{
-"en-UK":"Close",
-"da-DK":"Close"
-},
-"CLIENT_COMPLETEDINTERVIEW_FINISHBUTTON_TITLE":{
-"en-UK":"Finish",
-"da-DK":"Færdig"
-},
-"CLIENT_COMPLETEDINTERVIEW_TITLELABEL_HEADER":{
-"en-UK":"Thank you!",
-"da-DK":"Tak!"
-},
-"CLIENT_COMPLETEDINTERVIEW_DESCRIPTIONLABEL_HEADER":{
-"en-UK":"Your video interview has been submitted",
-"da-DK":"Dit video interview er blevet tilføjet"
-},
-"CLIENT_STARTINTERVIEW_PRACTICEAGAINBUTTON_TITLE":{
-"en-UK":"Practice again",
-"da-DK":"Prøv igen"
-},
-"CLIENT_STARTINTERVIEW_STARTBUTTON_TITLE":{
-"en-UK":"Start",
-"da-DK":"Start"
-},
-"CLIENT_STARTINTERVIEW_TITLELABEL_HEADER":{
-"en-UK":"Start the interview",
-"da-DK":"Start dit interview"
-},
-"CLIENT_LOGINVIEW_LOGINBUTTON_TITLE":{
-"en-UK":"Sign in",
-"da-DK":"Log ind"
-},
-"CLIENT_LOGINVIEW_SCANBUTTON_TITLE":{
-"en-UK":"Sign in with QR code",
-"da-DK":"Log ind med QR kode"
-},
-"CLIENT_LOGINVIEW_FAILEDSCANALERT_TITLE":{
-"en-UK":"Failed scanning QR code",
-"da-DK":"Fejl i scanning af QR kode"
-},
-"CLIENT_LOGINVIEW_FAILEDSCANALERT_MESSAGE":{
-"en-UK":"Please try to scan the QR code again.",
-"da-DK":"Scan QR koden igen."
-},
-"CLIENT_LOGINVIEW_LOGGINGINPROGRESS_TITLE":{
-"en-UK":"Signing in",
-"da-DK":"Log ind"
-},
-"CLIENT_LOGINVIEW_OPENEMAILBUTTON_TITLE":{
-"en-UK":"Open email",
-"da-DK":"Open email"
-},
-"CLIENT_LOGINVIEW_LOGINDESCRIPTION":{
-"en-UK":"In order to login and start the interview, please open the email you have received from Applicants.Careers, and click Start Interview",
-"da-DK":"In order to login and start the interview, please open the email you have received from Applicants.Careers, and click Start Interview"
-},
-"CLIENT_REVIEWVIEW_REVIEWBUTTON_TITLE":{
-"en-UK":"Review your answer",
-"da-DK":"Se dit svar igen"
-},
-"CLIENT_REVIEWVIEW_STARTBUTTON_TITLE":{
-"en-UK":"Start interview",
-"da-DK":"Start dit interview"
-},
-"CLIENT_REVIEWVIEW_TITLELABEL_HEADER":{
-"en-UK":"Review",
-"da-DK":"Se igen"
-},
-"CLIENT_REVIEWVIEW_DESCRIPTIONLABEL_HEADER":{
-"en-UK":"Review the test interview for quality of the video and the sound loudness.\n\nIf you cannot hear yourself or it's too dark, adjust your settings and try again.",
-"da-DK":"Se test interviewet igen. Check video kvaliteten og lydstyrken.\n\n Hvis du ikke kan høre dig selv eller billedet er for mørkt så juster dine indstillinger og prøv igen."
-},
-"CLIENT_TRYITVIEW_SKIPPRACTICEBUTTON_TITLE":{
-"en-UK":"Skip practice",
-"da-DK":"Spring over!"
-},
-"CLIENT_TRYITVIEW_PRACTICEBUTTON_TITLE":{
-"en-UK":"Let's practice",
-"da-DK":"Lad os øve os"
-},
-"CLIENT_TRYITVIEW_TITLELABEL_HEADER":{
-"en-UK":"Try it out!",
-"da-DK":"Prøv det!"
-},
-"CLIENT_TRYITVIEW_DESCRIPTIONLABEL_HEADER":{
-"en-UK":"Let's try a sample question and answer session before starting the real interview",
-"da-DK":"Lav en prøve på  spørgsmål og svar før du går igang med det rigtige interview "
-},
-"CLIENT_LOGIN_EMAILTEXT_HEADER":{
-"en-UK":"Email",
-"da-DK":"email"
-},
-"CLIENT_LOGIN_CODETEXT_HEADER":{
-"en-UK":"Code",
-"da-DK":"Kode"
-},
-"CLIENT_DEMORECORDER_QUESTIONLABEL_HEADER":{
-"en-UK":"1. About yourself",
-"da-DK":"1. Om dig"
-},
-"CLIENT_DEMORECORDER_DONEBUTTON_TITLE":{
-"en-UK":"I'm done",
-"da-DK":"Jeg er færdig"
-},
-"CLIENT_DEMORECORDER_WILLSTARTRECORDINGLABEL_HEADER":{
-"en-UK":"Will start recording shortly...",
-"da-DK":"Optagelsen starter om lidt.."
-},
-"CLIENT_DEMORECORDER_CANNOTSAVEVIDEOALERT_TITLE":{
-"en-UK":"Cannot save video",
-"da-DK":"Videoen kan ikke gemmes"
-},
-"CLIENT_DEMORECORDER_CANNOTSAVEVIDEOALERT_MESSAGE":{
-"en-UK":"An error occured while saving video. Please restart the application.",
-"da-DK":"Der skete en fejl. Videoen kan ikke gemmes. Start venligst igen. "
-},
-"CLIENT_BASEDEMOPREVIEWER_CANNOTSTARTPREVIEWALERT_TITLE":{
-"en-UK":"Cannot start preview",
-"da-DK":"Preview kan ikke starte"
-},
-"CLIENT_BASEDEMOPREVIEWER_CANNOTSTARTPREVIEWALERT_MESSAGE":{
-"en-UK":"An error occured. Please restart the application.",
-"da-DK":"Der skete en fejl. Start venligst igen. "
-},
-"CLIENT_FINALUPLOAD_TITLELABEL_HEADER":{
-"en-UK":"Please wait while your answers are being uploaded...",
-"da-DK":"Vent venligst - dine svar er ved at blive uploaded"
-},
-"CLIENT_FINALUPLOAD_EMPTYSTATE_HEADER":{
-"en-UK":"All of your answers were uploaded. Thank you for taking the interview.",
-"da-DK":"Alle dine svar er uploaded. Tak for din ansøgning."
-},
-"CLIENT_FINALUPLOAD_ITEMLABEL_HEADER":{
-"en-UK":"Answer for question [NUMBER]",
-"da-DK":"Svar på spørgsmål [NUMBER]"
-},
-"CLIENT_INTERVIEW_WILLSTARTRECORDMESSAGE_HEADER":{
-"en-UK":"Get ready...",
-"da-DK":"Gør dig klar..."
-},
-"CLIENT_INTERVIEW_NEXTQUESTIONBUTTON_TITLE":{
-"en-UK":"Next question",
-"da-DK":"Næste spørgsmål"
-},
-"CLIENT_INTERVIEW_CANNOTSAVEANSWERALERT_TITLE":{
-"en-UK":"Cannot save answer",
-"da-DK":"Svaret kan ikke gemmes"
-},
-"CLIENT_INTERVIEW_CANNOTSAVEANSWERALERT_MESSAGE":{
-"en-UK":"An error occured. Please restart the application.",
-"da-DK":"Der skete en fejl. Start venligst igen. "
-},
-"CLIENT_INTERVIEW_STARTINLABEL_HEADER":{
-"en-UK":"Answer in",
-"da-DK":"Svar om"
-},
-"CLIENT_INTERVIEW_NEXTQUESTIONLABEL_HEADER":{
-"en-UK":"Next question in",
-"da-DK":"Næste spørgsmål kommer om"
-},
-"CLIENT_LOGIN_CANNOTLOGINALERT_TITLE":{
-"en-UK":"Cannot login",
-"da-DK":"Kan ikke logge ind"
-},
-"CLIENT_LOGIN_CANNOTLOGINALERT_MESSAGE":{
-"en-UK":"This job post is not active anymore",
-"da-DK":"Job opslaget er ikke længere aktivt "
-},
-"CLIENT_PROFILEPICTURE_SNAPBUTTON_TITLE":{
-"en-UK":"Snap profile picture",
-"da-DK":"Profilbillede"
-},
-"CLIENT_PROFILEPICTURE_CANNOTTAKEIMAGEALERT_TITLE":{
-"en-UK":"Cannot take image",
-"da-DK":"Kan ikke tage billede"
-},
-"CLIENT_PROFILEPICTURE_CANNOTTAKEIMAGEALERT_MESSAGE":{
-"en-UK":"An error occured.",
-"da-DK":"Der skete en fejl. Start venligst igen. "
-},
-"CLIENT_PROFILEPICTURE_CANNOTUPLOADIMAGEALERT_TITLE":{
-"en-UK":"Cannot upload image",
-"da-DK":"Billedet kan ikke uploades"
-},
-"CLIENT_PROFILEPICTURE_CANNOTUPLOADIMAGEALERT_MESSAGE":{
-"en-UK":"An error occured while uploading image. Please try again.",
-"da-DK":"Der skete en fejl under upload af billede. Prøv venligst igen.  "
-},
-"CLIENT_INTROVIDEO_ACTIONBUTTON_SKIP":{
-"en-UK":"Skip video",
-"da-DK":"Skip video "
-},
-"CLIENT_INTERVIEW_ONBACKALERT_TOAST":{
-"en-UK":"You cannot go back while the interview lasts",
-"da-DK":"Du kan ikke går tilbage mens interviewet  kører"
-},
-"CLIENT_PROFILEPICTURE_ONBACKALERT_TITLE":{
-"en-UK":"You will be logged out",
-"da-DK":"Du vil blive logget ud."
-},
-"CLIENT_PROFILEPICTURE_ONBACKALERT_MESSAGE":{
-"en-UK":"Are you sure you want to logout?",
-"da-DK":"Er du sikker på du vil logge ud ?"
-},
-"CLIENT_PROFILEPICTURE_ONBACKALERT_LOGOUTBUTTON":{
-"en-UK":"Logout",
-"da-DK":"Log ud"
-},
-"CLIENT_FINALUPLOAD_SHORTTITLELABEL_HEADER":{
-"en-UK":"Sending answers",
-"da-DK":"Sender svar"
-},
-"CLIENT_INTROTEXT_HEADER":{
-"en-UK":"Interview will begin shortly",
-"da-DK":"Interview will begin shortly"
-},
-"CLIENT_INTROTEXT_DESCRIPTION":{
-"en-UK":"First, you'll need to take a CV photo. After that, we've prepared a short practice session, so you'll feel how the interview process will go on.\n\nFinally, the interview will begin. Good luck!",
-"da-DK":"First, you'll need to take a CV photo. After that, we've prepared a short practice session, so you'll feel how the interview process will go on.\n\nFinally, the interview will begin. Good luck!"
-},
-"CLIENT_INTROTEXT_BOTTOMBUTTON_TITLE":{
-"en-UK":"Take CV photo",
-"da-DK":"Take CV photo"
-},
-"CLIENT_INTROTEXT_PRIVACYPOLICY_TITLE":{
-"en-UK":"Privacy policy",
-"da-DK":"Privacy policy"
-},
-"CLIENT_PRIVACYPOLICY_URL":{
-"en-UK":"https://google.com",
-"da-DK":"https://google.com"
-}
-}
+    "texts": {
+        "CLIENT_GENERIC_CANCEL": {
+            "en-UK": "Cancel",
+            "da-DK": "Fortryd"
+        },
+        "CLIENT_GENERIC_CLOSE": {
+            "en-UK": "Close",
+            "da-DK": "Close"
+        },
+        "CLIENT_COMPLETEDINTERVIEW_FINISHBUTTON_TITLE": {
+            "en-UK": "Finish",
+            "da-DK": "Færdig"
+        },
+        "CLIENT_COMPLETEDINTERVIEW_TITLELABEL_HEADER": {
+            "en-UK": "Thank you!",
+            "da-DK": "Tak!"
+        },
+        "CLIENT_COMPLETEDINTERVIEW_DESCRIPTIONLABEL_HEADER": {
+            "en-UK": "Your video interview has been submitted",
+            "da-DK": "Dit video interview er blevet tilføjet"
+        },
+        "CLIENT_STARTINTERVIEW_PRACTICEAGAINBUTTON_TITLE": {
+            "en-UK": "Practice again",
+            "da-DK": "Prøv igen"
+        },
+        "CLIENT_STARTINTERVIEW_STARTBUTTON_TITLE": {
+            "en-UK": "Start",
+            "da-DK": "Start"
+        },
+        "CLIENT_STARTINTERVIEW_TITLELABEL_HEADER": {
+            "en-UK": "Start the interview",
+            "da-DK": "Start dit interview"
+        },
+        "CLIENT_LOGINVIEW_LOGINBUTTON_TITLE": {
+            "en-UK": "Sign in",
+            "da-DK": "Log ind"
+        },
+        "CLIENT_LOGINVIEW_SCANBUTTON_TITLE": {
+            "en-UK": "Sign in with QR code",
+            "da-DK": "Log ind med QR kode"
+        },
+        "CLIENT_LOGINVIEW_FAILEDSCANALERT_TITLE": {
+            "en-UK": "Failed scanning QR code",
+            "da-DK": "Fejl i scanning af QR kode"
+        },
+        "CLIENT_LOGINVIEW_FAILEDSCANALERT_MESSAGE": {
+            "en-UK": "Please try to scan the QR code again.",
+            "da-DK": "Scan QR koden igen."
+        },
+        "CLIENT_LOGINVIEW_LOGGINGINPROGRESS_TITLE": {
+            "en-UK": "Signing in",
+            "da-DK": "Log ind"
+        },
+        "CLIENT_LOGINVIEW_OPENEMAILBUTTON_TITLE": {
+            "en-UK": "Open email",
+            "da-DK": "Open email"
+        },
+        "CLIENT_LOGINVIEW_LOGINDESCRIPTION": {
+            "en-UK": "In order to login and start the interview, please open the email you have received from Applicants.Careers, and click Start Interview",
+            "da-DK": "In order to login and start the interview, please open the email you have received from Applicants.Careers, and click Start Interview"
+        },
+        "CLIENT_REVIEWVIEW_REVIEWBUTTON_TITLE": {
+            "en-UK": "Review your answer",
+            "da-DK": "Se dit svar igen"
+        },
+        "CLIENT_REVIEWVIEW_STARTBUTTON_TITLE": {
+            "en-UK": "Start interview",
+            "da-DK": "Start dit interview"
+        },
+        "CLIENT_REVIEWVIEW_TITLELABEL_HEADER": {
+            "en-UK": "Review",
+            "da-DK": "Se igen"
+        },
+        "CLIENT_REVIEWVIEW_DESCRIPTIONLABEL_HEADER": {
+            "en-UK": "Review the test interview for quality of the video and the sound loudness.\\n\\nIf you cannot hear yourself or it's too dark, adjust your settings and try again.",
+            "da-DK": "Se test interviewet igen. Check video kvaliteten og lydstyrken.\\n\\n Hvis du ikke kan høre dig selv eller billedet er for mørkt så juster dine indstillinger og prøv igen."
+        },
+        "CLIENT_TRYITVIEW_SKIPPRACTICEBUTTON_TITLE": {
+            "en-UK": "Skip practice",
+            "da-DK": "Spring over!"
+        },
+        "CLIENT_TRYITVIEW_PRACTICEBUTTON_TITLE": {
+            "en-UK": "Let's practice",
+            "da-DK": "Lad os øve os"
+        },
+        "CLIENT_TRYITVIEW_TITLELABEL_HEADER": {
+            "en-UK": "Try it out!",
+            "da-DK": "Prøv det!"
+        },
+        "CLIENT_TRYITVIEW_DESCRIPTIONLABEL_HEADER": {
+            "en-UK": "Let's try a sample question and answer session before starting the real interview",
+            "da-DK": "Lav en prøve på  spørgsmål og svar før du går igang med det rigtige interview "
+        },
+        "CLIENT_LOGIN_EMAILTEXT_HEADER": {
+            "en-UK": "Email",
+            "da-DK": "email"
+        },
+        "CLIENT_LOGIN_CODETEXT_HEADER": {
+            "en-UK": "Code",
+            "da-DK": "Kode"
+        },
+        "CLIENT_DEMORECORDER_QUESTIONLABEL_HEADER": {
+            "en-UK": "1. About yourself",
+            "da-DK": "1. Om dig"
+        },
+        "CLIENT_DEMORECORDER_DONEBUTTON_TITLE": {
+            "en-UK": "I'm done",
+            "da-DK": "Jeg er færdig"
+        },
+        "CLIENT_DEMORECORDER_WILLSTARTRECORDINGLABEL_HEADER": {
+            "en-UK": "Will start recording shortly...",
+            "da-DK": "Optagelsen starter om lidt.."
+        },
+        "CLIENT_DEMORECORDER_CANNOTSAVEVIDEOALERT_TITLE": {
+            "en-UK": "Cannot save video",
+            "da-DK": "Videoen kan ikke gemmes"
+        },
+        "CLIENT_DEMORECORDER_CANNOTSAVEVIDEOALERT_MESSAGE": {
+            "en-UK": "An error occured while saving video. Please restart the application.",
+            "da-DK": "Der skete en fejl. Videoen kan ikke gemmes. Start venligst igen. "
+        },
+        "CLIENT_BASEDEMOPREVIEWER_CANNOTSTARTPREVIEWALERT_TITLE": {
+            "en-UK": "Cannot start preview",
+            "da-DK": "Preview kan ikke starte"
+        },
+        "CLIENT_BASEDEMOPREVIEWER_CANNOTSTARTPREVIEWALERT_MESSAGE": {
+            "en-UK": "An error occured. Please restart the application.",
+            "da-DK": "Der skete en fejl. Start venligst igen. "
+        },
+        "CLIENT_FINALUPLOAD_TITLELABEL_HEADER": {
+            "en-UK": "Please wait while your answers are being uploaded...",
+            "da-DK": "Vent venligst - dine svar er ved at blive uploaded"
+        },
+        "CLIENT_FINALUPLOAD_EMPTYSTATE_HEADER": {
+            "en-UK": "All of your answers were uploaded. Thank you for taking the interview.",
+            "da-DK": "Alle dine svar er uploaded. Tak for din ansøgning."
+        },
+        "CLIENT_FINALUPLOAD_ITEMLABEL_HEADER": {
+            "en-UK": "Answer for question [NUMBER]",
+            "da-DK": "Svar på spørgsmål [NUMBER]"
+        },
+        "CLIENT_INTERVIEW_WILLSTARTRECORDMESSAGE_HEADER": {
+            "en-UK": "Get ready...",
+            "da-DK": "Gør dig klar..."
+        },
+        "CLIENT_INTERVIEW_NEXTQUESTIONBUTTON_TITLE": {
+            "en-UK": "Next question",
+            "da-DK": "Næste spørgsmål"
+        },
+        "CLIENT_INTERVIEW_CANNOTSAVEANSWERALERT_TITLE": {
+            "en-UK": "Cannot save answer",
+            "da-DK": "Svaret kan ikke gemmes"
+        },
+        "CLIENT_INTERVIEW_CANNOTSAVEANSWERALERT_MESSAGE": {
+            "en-UK": "An error occured. Please restart the application.",
+            "da-DK": "Der skete en fejl. Start venligst igen. "
+        },
+        "CLIENT_INTERVIEW_STARTINLABEL_HEADER": {
+            "en-UK": "Answer in",
+            "da-DK": "Svar om"
+        },
+        "CLIENT_INTERVIEW_NEXTQUESTIONLABEL_HEADER": {
+            "en-UK": "Next question in",
+            "da-DK": "Næste spørgsmål kommer om"
+        },
+        "CLIENT_LOGIN_CANNOTLOGINALERT_TITLE": {
+            "en-UK": "Cannot login",
+            "da-DK": "Kan ikke logge ind"
+        },
+        "CLIENT_LOGIN_CANNOTLOGINALERT_MESSAGE": {
+            "en-UK": "This job post is not active anymore",
+            "da-DK": "Job opslaget er ikke længere aktivt "
+        },
+        "CLIENT_PROFILEPICTURE_SNAPBUTTON_TITLE": {
+            "en-UK": "Snap profile picture",
+            "da-DK": "Profilbillede"
+        },
+        "CLIENT_PROFILEPICTURE_CANNOTTAKEIMAGEALERT_TITLE": {
+            "en-UK": "Cannot take image",
+            "da-DK": "Kan ikke tage billede"
+        },
+        "CLIENT_PROFILEPICTURE_CANNOTTAKEIMAGEALERT_MESSAGE": {
+            "en-UK": "An error occured.",
+            "da-DK": "Der skete en fejl. Start venligst igen. "
+        },
+        "CLIENT_PROFILEPICTURE_CANNOTUPLOADIMAGEALERT_TITLE": {
+            "en-UK": "Cannot upload image",
+            "da-DK": "Billedet kan ikke uploades"
+        },
+        "CLIENT_PROFILEPICTURE_CANNOTUPLOADIMAGEALERT_MESSAGE": {
+            "en-UK": "An error occured while uploading image. Please try again.",
+            "da-DK": "Der skete en fejl under upload af billede. Prøv venligst igen.  "
+        },
+        "CLIENT_INTROVIDEO_ACTIONBUTTON_SKIP": {
+            "en-UK": "Skip video",
+            "da-DK": "Skip video "
+        },
+        "CLIENT_INTERVIEW_ONBACKALERT_TOAST": {
+            "en-UK": "You cannot go back while the interview lasts",
+            "da-DK": "Du kan ikke går tilbage mens interviewet  kører"
+        },
+        "CLIENT_PROFILEPICTURE_ONBACKALERT_TITLE": {
+            "en-UK": "You will be logged out",
+            "da-DK": "Du vil blive logget ud."
+        },
+        "CLIENT_PROFILEPICTURE_ONBACKALERT_MESSAGE": {
+            "en-UK": "Are you sure you want to logout?",
+            "da-DK": "Er du sikker på du vil logge ud ?"
+        },
+        "CLIENT_PROFILEPICTURE_ONBACKALERT_LOGOUTBUTTON": {
+            "en-UK": "Logout",
+            "da-DK": "Log ud"
+        },
+        "CLIENT_FINALUPLOAD_SHORTTITLELABEL_HEADER": {
+            "en-UK": "Sending answers",
+            "da-DK": "Sender svar"
+        },
+        "CLIENT_INTROTEXT_HEADER": {
+            "en-UK": "Interview will begin shortly",
+            "da-DK": "Interview will begin shortly"
+        },
+        "CLIENT_INTROTEXT_DESCRIPTION": {
+            "en-UK": "First, you'll need to take a CV photo. After that, we've prepared a short practice session, so you'll feel how the interview process will go on.\\n\\nFinally, the interview will begin. Good luck!",
+            "da-DK": "First, you'll need to take a CV photo. After that, we've prepared a short practice session, so you'll feel how the interview process will go on.\\n\\nFinally, the interview will begin. Good luck!"
+        },
+        "CLIENT_INTROTEXT_BOTTOMBUTTON_TITLE": {
+            "en-UK": "Take CV photo",
+            "da-DK": "Take CV photo"
+        },
+        "CLIENT_INTROTEXT_PRIVACYPOLICY_TITLE": {
+            "en-UK": "Privacy policy",
+            "da-DK": "Privacy policy"
+        },
+        "CLIENT_PRIVACYPOLICY_URL": {
+            "en-UK": "https://google.com",
+            "da-DK": "https://google.com"
+        },
+        "CLIENT_NOPERMISSIONSGRANTED_ALERT_TITLE": {
+            "en-UK": "No permissions granted",
+            "da-DK": "No permissions granted"
+        },
+        "CLIENT_NOPERMISSIONSGRANTED_ALERT_MESSAGE": {
+            "en-UK": "In order to take the interview, you need to record yourself and speak. For that, you need to grant this application a microphone and camera access. Please go to Settings and grant permissions before continuing",
+            "da-DK": "In order to take the interview, you need to record yourself and speak. For that, you need to grant this application a microphone and camera access. Please go to Settings and grant permissions before continuing"
+        }
+    }
 }
