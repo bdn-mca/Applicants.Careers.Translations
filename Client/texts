@@ -73,8 +73,8 @@
             "da-DK": "Se igen"
         },
         "CLIENT_REVIEWVIEW_DESCRIPTIONLABEL_HEADER": {
-            "en-UK": "Review the test interview for quality of the video and the sound loudness.\\n\\nIf you cannot hear yourself or it's too dark, adjust your settings and try again.",
-            "da-DK": "Se test interviewet igen. Check video kvaliteten og lydstyrken.\\n\\n Hvis du ikke kan høre dig selv eller billedet er for mørkt så juster dine indstillinger og prøv igen."
+            "en-UK": "Review the test interview for quality of the video and the sound loudness. If you cannot hear yourself or it's too dark, adjust your settings and try again.",
+            "da-DK": "Se test interviewet igen. Check video kvaliteten og lydstyrken. Hvis du ikke kan høre dig selv eller billedet er for mørkt så juster dine indstillinger og prøv igen."
         },
         "CLIENT_TRYITVIEW_SKIPPRACTICEBUTTON_TITLE": {
             "en-UK": "Skip practice",
@@ -221,8 +221,8 @@
             "da-DK": "Interview will begin shortly"
         },
         "CLIENT_INTROTEXT_DESCRIPTION": {
-            "en-UK": "First, you'll need to take a CV photo. After that, we've prepared a short practice session, so you'll feel how the interview process will go on.\\n\\nFinally, the interview will begin. Good luck!",
-            "da-DK": "First, you'll need to take a CV photo. After that, we've prepared a short practice session, so you'll feel how the interview process will go on.\\n\\nFinally, the interview will begin. Good luck!"
+            "en-UK": "First, you'll need to take a CV photo. After that, we've prepared a short practice session, so you'll feel how the interview process will go on. Finally, the interview will begin. Good luck!",
+            "da-DK": "First, you'll need to take a CV photo. After that, we've prepared a short practice session, so you'll feel how the interview process will go on. Finally, the interview will begin. Good luck!"
         },
         "CLIENT_INTROTEXT_BOTTOMBUTTON_TITLE": {
             "en-UK": "Take CV photo",
