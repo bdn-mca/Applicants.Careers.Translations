@@ -57,8 +57,8 @@
             "da-DK": "Open email"
         },
         "CLIENT_LOGINVIEW_LOGINDESCRIPTION": {
-            "en-UK": "In order to login and start the interview, please open the email you have received from Applicants.Careers, and click Start Interview",
-            "da-DK": "In order to login and start the interview, please open the email you have received from Applicants.Careers, and click Start Interview"
+            "en-UK": "In order to login and start the interview, please open the email you have received after applying, and click Start Interview",
+            "da-DK": "For at logge ind og starte dit interview skal du åbne den mail, du lige har modtaget og klikke på Start Interview"
         },
         "CLIENT_REVIEWVIEW_REVIEWBUTTON_TITLE": {
             "en-UK": "Review your answer",
