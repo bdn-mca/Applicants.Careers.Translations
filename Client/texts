@@ -6,7 +6,7 @@
         },
         "CLIENT_GENERIC_CLOSE": {
             "en-UK": "Close",
-            "da-DK": "Close"
+            "da-DK": "Luk"
         },
         "CLIENT_COMPLETEDINTERVIEW_FINISHBUTTON_TITLE": {
             "en-UK": "Finish",
@@ -54,10 +54,10 @@
         },
         "CLIENT_LOGINVIEW_OPENEMAILBUTTON_TITLE": {
             "en-UK": "Open email",
-            "da-DK": "Open email"
+            "da-DK": "Åben email"
         },
         "CLIENT_LOGINVIEW_LOGINDESCRIPTION": {
-            "en-UK": "In order to login and start the interview, please open the email you have received after applying, and click Start Interview",
+            "en-UK": "In order to login and start the interview, please open the email you have just received, and click Start Interview",
             "da-DK": "For at logge ind og starte dit interview skal du åbne den mail, du lige har modtaget og klikke på Start Interview"
         },
         "CLIENT_REVIEWVIEW_REVIEWBUTTON_TITLE": {
@@ -218,31 +218,31 @@
         },
         "CLIENT_INTROTEXT_HEADER": {
             "en-UK": "Interview will begin shortly",
-            "da-DK": "Interview will begin shortly"
+            "da-DK": "Dit interview begynder om lidt"
         },
         "CLIENT_INTROTEXT_DESCRIPTION": {
             "en-UK": "First, you'll need to take a CV photo. After that, we've prepared a short practice session, so you'll feel how the interview process will go on. Finally, the interview will begin. Good luck!",
-            "da-DK": "First, you'll need to take a CV photo. After that, we've prepared a short practice session, so you'll feel how the interview process will go on. Finally, the interview will begin. Good luck!"
+            "da-DK": "Først skal du lige ta´et profilbillede og så giver vi dig lige mulighed for at øve dig lidt så du ved hvordan interviewet kommer til at foregå. Når du føler dig klar begynder dit egentlige interview. Held og lykke"
         },
         "CLIENT_INTROTEXT_BOTTOMBUTTON_TITLE": {
             "en-UK": "Take CV photo",
-            "da-DK": "Take CV photo"
+            "da-DK": "Ta´et profilbillede"
         },
         "CLIENT_INTROTEXT_PRIVACYPOLICY_TITLE": {
             "en-UK": "Privacy policy",
-            "da-DK": "Privacy policy"
+            "da-DK": "Privatlivs politik"
         },
         "CLIENT_PRIVACYPOLICY_URL": {
-            "en-UK": "https://google.com",
-            "da-DK": "https://google.com"
+            "en-UK": "http://www.applicants.careers/Home/Privacy",
+            "da-DK": "http://www.applicants.careers/Home/Privacy"
         },
         "CLIENT_NOPERMISSIONSGRANTED_ALERT_TITLE": {
             "en-UK": "No permissions granted",
-            "da-DK": "No permissions granted"
+            "da-DK": "Ingen tilladelser"
         },
         "CLIENT_NOPERMISSIONSGRANTED_ALERT_MESSAGE": {
             "en-UK": "In order to take the interview, you need to record yourself and speak. For that, you need to grant this application a microphone and camera access. Please go to Settings and grant permissions before continuing",
-            "da-DK": "In order to take the interview, you need to record yourself and speak. For that, you need to grant this application a microphone and camera access. Please go to Settings and grant permissions before continuing"
+            "da-DK": "For at gennemføre dit interview er det nødvendigt at give tilladelse til at appen bruger din mikrofon og dit kamera. Gå til indstillinger og giv din tilladelse før du fortsætter. "
         }
     }
 }
