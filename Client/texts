@@ -243,6 +243,10 @@
         "CLIENT_NOPERMISSIONSGRANTED_ALERT_MESSAGE": {
             "en-UK": "In order to take the interview, you need to record yourself and speak. For that, you need to grant this application a microphone and camera access. Please go to Settings and grant permissions before continuing",
             "da-DK": "For at gennemføre dit interview er det nødvendigt at give tilladelse til at appen bruger din mikrofon og dit kamera. Gå til indstillinger og giv din tilladelse før du fortsætter. "
+        },
+        "CLIENT_FINALUPLOAD_SHORTTITLEHEADER_LABEL": {
+            "en-UK": "Please wait while we upload your answers",
+            "da-DK": "Vent venligst - dine svar er ved at blive uploaded"
         }
     }
 }
